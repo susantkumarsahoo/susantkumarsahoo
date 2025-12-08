@@ -86,6 +86,9 @@ I'm a passionate Data Scientist with expertise in building end-to-end machine le
 
 ---
 
+<p align="center"> <img src="https://img.shields.io/badge/Data%20Scientist-Expert-blue?style=for-the-badge" /> <img src="https://img.shields.io/badge/Machine%20Learning-Professional-green?style=for-the-badge" /> <img src="https://img.shields.io/badge/Deep%20Learning-Keras%2FTensorFlow-orange?style=for-the-badge" /> <img src="https://img.shields.io/badge/GenAI-HuggingFace-yellow?style=for-the-badge" /> <img src="https://img.shields.io/badge/MLOps-MLflow%20%7C%20DVC%20%7C%20BentoML-red?style=for-the-badge" /> </p>
+
+
 ## 🤝 Connect With Me
 
 <div align="center">

@@ -18,6 +18,18 @@ I'm a passionate Data Scientist with expertise in building end-to-end machine le
 
 ---
 
+---
+
+## 🧰 Tools & Technologies
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,docker,aws,azure,github,git,fastapi,postgresql,mysql,pandas,numpy" height="80" />
+
+</div>
+
+---
+
 ## 🛠️ Tech Stack & Tools
 
 ### Programming Languages

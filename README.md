@@ -41,7 +41,7 @@ I'm a passionate Data Scientist with expertise in building end-to-end machine le
 
 ### Programming Language
 <a href="https://www.python.org/" target="_blank">
-<img src="https://skillicons.dev/icons?i=python" height="50" />
+<img src="https://skillicons.dev/icons?i=python" height="50" /> <img src="https://skillicons.dev/icons?i=tensorflow" height="50" /> <img src="https://skillicons.dev/icons?i=sklearn" height="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" height="50" />
 </a>
 
 ### Machine Learning & Deep Learning Frameworks

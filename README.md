@@ -10,9 +10,9 @@
 
 I'm a passionate Data Scientist with expertise in building end-to-end machine learning solutions. I love turning data into actionable insights and creating intelligent systems that make a real-world impact.
 
-- 🔭 Currently working on: [Your Current Project]
-- 🌱 Learning: [New Technologies/Frameworks]
-- 💬 Ask me about: Machine Learning, Deep Learning, Data Analysis
+- 🔭 Currently working on: [Tata Power Limited]
+- 🌱 Learning: [Data Scientist – AI/ML]
+- 💬 Ask me about: Machine Learning, Deep Learning, Data Analysis Data Scientist – AI/ML GenAI
 - 📫 Reach me: [your.email@example.com]
 - ⚡ Fun fact: [Something interesting about you]
 
@@ -86,45 +86,11 @@ I'm a passionate Data Scientist with expertise in building end-to-end machine le
   
 </div>
 
----
-
-## 🏆 Featured Projects
-
-### 🤖 [Project Name 1](https://github.com/yourusername/project1)
-**Description:** Brief description of your machine learning project
-- **Tech Stack:** Python, TensorFlow, FastAPI, Docker
-- **Key Features:** Feature 1, Feature 2, Feature 3
-- **Results:** Achieved X% accuracy / performance metric
-
-### 📈 [Project Name 2](https://github.com/yourusername/project2)
-**Description:** Brief description of your data analysis project
-- **Tech Stack:** Python, Pandas, Plotly, Scikit-learn
-- **Key Features:** Feature 1, Feature 2, Feature 3
-- **Results:** Insights discovered / business impact
-
-### 🧠 [Project Name 3](https://github.com/yourusername/project3)
-**Description:** Brief description of your deep learning project
-- **Tech Stack:** PyTorch, Hugging Face, Streamlit
-- **Key Features:** Feature 1, Feature 2, Feature 3
-- **Results:** Performance metrics / achievements
-
----
-
-## 📝 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [Article Title 1](link)
-- [Article Title 2](link)
-- [Article Title 3](link)
-<!-- BLOG-POST-LIST:END -->
-
----
-
 ## 🤝 Connect With Me
 
 <div align="center">
   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/susantkumarsahoo/))
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/yourprofile)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@yourprofile)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourprofile)
@@ -132,18 +98,7 @@ I'm a passionate Data Scientist with expertise in building end-to-end machine le
 
 </div>
 
----
 
-## 📌 Pinned Repositories
-
-<div align="center">
-  
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=REPO_NAME&theme=tokyonight)](https://github.com/YOUR_USERNAME/REPO_NAME)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=REPO_NAME&theme=tokyonight)](https://github.com/YOUR_USERNAME/REPO_NAME)
-
-</div>
-
----
 
 <div align="center">
   

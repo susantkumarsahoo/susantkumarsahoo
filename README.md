@@ -29,19 +29,12 @@ I'm a passionate Data Scientist with expertise in building end-to-end machine le
 
 ---
 
-
-
-
-
-
-
-
 ## 🧰 Tools & Technologies
 <div align="center">
 
 ### Programming Language
 <a href="https://www.python.org/" target="_blank">
-<img src="https://skillicons.dev/icons?i=python" height="100" />
+<img src="https://skillicons.dev/icons?i=python" height="50" />
 </a>
 
 ### Machine Learning & Deep Learning Frameworks
@@ -60,15 +53,12 @@ I'm a passionate Data Scientist with expertise in building end-to-end machine le
 <a href="https://xgboost.readthedocs.io/" target="_blank">
 <img src="https://upload.wikimedia.org/wikipedia/commons/6/69/XGBoost_logo.png" height="50" />
 </a>
-### Natural Language Processing
 <a href="https://spacy.io/" target="_blank">
 <img src="https://upload.wikimedia.org/wikipedia/commons/8/88/SpaCy_logo.svg" height="50" />
 </a>
 <a href="https://huggingface.co/" target="_blank">
 <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" height="50" />
 </a>
-
-### Data Processing & Analysis
 <a href="https://pandas.pydata.org/" target="_blank">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="50" />
 </a>
@@ -78,8 +68,6 @@ I'm a passionate Data Scientist with expertise in building end-to-end machine le
 <a href="https://scipy.org/" target="_blank">
 <img src="https://scipy.org/images/logo.svg" height="50" />
 </a>
-
-### Data Visualization
 <a href="https://matplotlib.org/" target="_blank">
 <img src="https://matplotlib.org/stable/_static/logo_light.svg" height="50" />
 </a>
@@ -98,8 +86,6 @@ I'm a passionate Data Scientist with expertise in building end-to-end machine le
 <a href="https://streamlit.io/" target="_blank">
 <img src="https://streamlit.io/images/brand/streamlit-mark-color.svg" height="50" />
 </a>
-
-### MLOps & Deployment
 <a href="https://www.docker.com/" target="_blank">
 <img src="https://skillicons.dev/icons?i=docker" height="50" />
 </a>
@@ -115,16 +101,12 @@ I'm a passionate Data Scientist with expertise in building end-to-end machine le
 <a href="https://www.kubeflow.org/" target="_blank">
 <img src="https://www.kubeflow.org/images/logo.svg" height="50" />
 </a>
-
-### Model Deployment & Serving
 <a href="https://fastapi.tiangolo.com/" target="_blank">
 <img src="https://skillicons.dev/icons?i=fastapi" height="50" />
 </a>
 <a href="https://flask.palletsprojects.com/" target="_blank">
 <img src="https://skillicons.dev/icons?i=flask" height="50" />
 </a>
-
-### Cloud Platforms
 <a href="https://aws.amazon.com/" target="_blank">
 <img src="https://skillicons.dev/icons?i=aws" height="50" />
 </a>
@@ -134,8 +116,6 @@ I'm a passionate Data Scientist with expertise in building end-to-end machine le
 <a href="https://cloud.google.com/" target="_blank">
 <img src="https://skillicons.dev/icons?i=gcp" height="50" />
 </a>
-
-### Databases
 <a href="https://www.postgresql.org/" target="_blank">
 <img src="https://skillicons.dev/icons?i=postgresql" height="50" />
 </a>
@@ -151,8 +131,6 @@ I'm a passionate Data Scientist with expertise in building end-to-end machine le
 <a href="https://www.sqlite.org/" target="_blank">
 <img src="https://skillicons.dev/icons?i=sqlite" height="50" />
 </a>
-
-### Vector Databases
 <a href="https://www.pinecone.io/" target="_blank">
 <img src="https://www.pinecone.io/_next/image/?url=%2Fimages%2Fpinecone-logo.png&w=256&q=75" height="50" />
 </a>
@@ -162,8 +140,6 @@ I'm a passionate Data Scientist with expertise in building end-to-end machine le
 <a href="https://www.trychroma.com/" target="_blank">
 <img src="https://www.trychroma.com/chroma-logo.png" height="50" />
 </a>
-
-### Generative AI & LLM Frameworks
 <a href="https://www.langchain.com/" target="_blank">
 <img src="https://python.langchain.com/img/parrot-chainlink-icon.png" height="50" />
 </a>
@@ -176,8 +152,6 @@ I'm a passionate Data Scientist with expertise in building end-to-end machine le
 <a href="https://ollama.ai/" target="_blank">
 <img src="https://github.com/ollama/ollama/assets/3325447/0d0b44e2-8f4a-4e99-9b52-a5c1c741c8f7" height="50" />
 </a>
-
-### Version Control & Collaboration
 <a href="https://git-scm.com/" target="_blank">
 <img src="https://skillicons.dev/icons?i=git" height="50" />
 </a>
@@ -187,16 +161,12 @@ I'm a passionate Data Scientist with expertise in building end-to-end machine le
 <a href="https://gitlab.com/" target="_blank">
 <img src="https://skillicons.dev/icons?i=gitlab" height="50" />
 </a>
-
-### CI/CD
 <a href="https://github.com/features/actions" target="_blank">
 <img src="https://skillicons.dev/icons?i=githubactions" height="50" />
 </a>
 <a href="https://www.jenkins.io/" target="_blank">
 <img src="https://skillicons.dev/icons?i=jenkins" height="50" />
 </a>
-
-### IDEs & Notebooks
 <a href="https://code.visualstudio.com/" target="_blank">
 <img src="https://skillicons.dev/icons?i=vscode" height="50" />
 </a>

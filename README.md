@@ -1,17 +1,17 @@
-# 👋 Hi, I'm [Susant Kumar Sahoo]
+# Hi, I'm Susant Kumar Sahoo
 <div align="center">
   
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=DataScientist+AI/ML;MachineLearning+Engineer;AI+Engineer;GenAI+Engineer;Problem+Solver)](https://git.io/typing-svg)
   
 </div>
 
-## 🚀 About Me
+## About Me
 
-Full-Stack Data Scientist | AI/ML Engineer | Machine Learning | Deep Learning | Generative AI & LLMs | MLOps | SQL | Python | Applied AI Solutions | Real-World Experience Working on: Tata Power Limited
+Full-Stack Data Scientist | AI/ML Engineer | Machine Learning | Deep Learning | Generative AI & LLMs | MLOps | SQL | Python | Applied AI Solutions | Real-World Experience | Working on: Tata Power Limited
 
 ---
 
-## 🧰 Tools & Technologies Data Science, Machine Learning, Deep Learning & GenAI Libraries/Frameworks
+## Data Science, Machine Learning, Deep Learning & GenAI Libraries/Frameworks/Technologies
 <div align="center">
 <a href="https://www.python.org/" target="_blank">
 <img src="https://skillicons.dev/icons?i=python" height="50" />
@@ -165,7 +165,7 @@ Full-Stack Data Scientist | AI/ML Engineer | Machine Learning | Deep Learning | 
 
 ---
 
-## 🧰 Core Skills & Tools My Expertise
+## Core Skills & Tools My Expertise
 
 <div align="center">
 <a href="https://www.python.org/" target="_blank">
@@ -317,7 +317,7 @@ Full-Stack Data Scientist | AI/ML Engineer | Machine Learning | Deep Learning | 
 
 ---
 
-## 🤝 Connect With Me
+## Connect With Me
 
 <div align="center">
   
@@ -331,6 +331,6 @@ Full-Stack Data Scientist | AI/ML Engineer | Machine Learning | Deep Learning | 
 
 <div align="center">
   
-### 💡 "Data is the new oil, but like oil, it needs to be refined to be valuable."
+### Data is the new oil, but like oil, it needs to be refined to be valuable.
 
 </div>

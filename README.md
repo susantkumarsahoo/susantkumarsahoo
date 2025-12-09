@@ -11,7 +11,7 @@ Full-Stack Data Scientist | AI/ML Engineer | Machine Learning | Deep Learning | 
 
 ---
 
-## ## Data Science, Machine Learning, Deep Learning & GenAI Libraries/Frameworks/Technologies
+## Data Science, Machine Learning, Deep Learning & GenAI Libraries/Frameworks/Technologies
 
 <div align="center">
 <a href="https://www.python.org/" target="_blank">
@@ -39,7 +39,7 @@ Full-Stack Data Scientist | AI/ML Engineer | Machine Learning | Deep Learning | 
 <img src="https://images.plot.ly/logo/new-branding/plotly-logomark.png" height="50" />
 </a>
 <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank">
-<img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg" height="50" />
+<img src="https://img.icons8.com/color/452/microsoft-excel-2019--v1.png" height="50" alt="Excel" />
 </a>
 <a href="https://powerbi.microsoft.com/" target="_blank">
 <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="50" />
@@ -48,7 +48,7 @@ Full-Stack Data Scientist | AI/ML Engineer | Machine Learning | Deep Learning | 
 <img src="https://docs.pydantic.dev/latest/logo-white.svg" height="50" />
 </a>
 <a href="https://pytest.org/" target="_blank">
-<img src="https://docs.pytest.org/en/stable/_static/pytest_logo_curves.svg" height="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original.svg" height="50" alt="Pytest" />
 </a>
 <a href="https://www.nltk.org/" target="_blank">
 <img src="https://miro.medium.com/v2/resize:fit:592/1*YM2HXc7f4v02pZBEO8h-qw.png" height="50" />
@@ -156,18 +156,6 @@ Full-Stack Data Scientist | AI/ML Engineer | Machine Learning | Deep Learning | 
 </div>
 
 ---
-</div>
-
-<a href="https://pytest.org/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original.svg" height="50" alt="Pytest" />
-</a>
-
-<a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank">
-  <img src="https://img.icons8.com/color/452/microsoft-excel-2019--v1.png" height="50" alt="Excel" />
-</a>
-
-
-</div>
 
 ## Connect With Me
 

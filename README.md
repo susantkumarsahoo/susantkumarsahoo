@@ -159,11 +159,11 @@ Full-Stack Data Scientist | AI/ML Engineer | Machine Learning | Deep Learning | 
 </div>
 
 <a href="https://pytest.org/" target="_blank">
-  <img src="https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" alt="Pytest" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original.svg" height="50" alt="Pytest" />
 </a>
 
 <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank">
-  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel" />
+  <img src="https://img.icons8.com/color/452/microsoft-excel-2019--v1.png" height="50" alt="Excel" />
 </a>
 
 

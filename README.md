@@ -163,6 +163,31 @@ Full-Stack Data Scientist | AI/ML Engineer | Machine Learning | Deep Learning | 
 
 ---
 
+</div>
+<a href="https://jupyter.org/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" height="50" alt="Jupyter" />
+</a>
+
+<a href="https://www.langchain.com/" target="_blank">
+  <img src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" height="50" alt="LangChain" />
+</a>
+
+<a href="https://evidentlyai.com/" target="_blank">
+  <img src="https://avatars.githubusercontent.com/u/67492528?s=200&v=4" height="50" alt="Evidently AI" />
+</a>
+
+<a href="https://www.trychroma.com/" target="_blank">
+  <img src="https://avatars.githubusercontent.com/u/100004233?s=200&v=4" height="50" alt="ChromaDB" />
+</a>
+
+<a href="https://mlflow.org/" target="_blank">
+  <img src="https://avatars.githubusercontent.com/u/39938107?s=200&v=4" height="50" alt="MLflow" />
+</a>
+</div>
+
+---
+
+
 ## Connect With Me
 
 <div align="center">

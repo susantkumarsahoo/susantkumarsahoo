@@ -41,7 +41,7 @@ I'm a passionate Data Scientist with expertise in building end-to-end machine le
 
 ### Programming Language
 <a href="https://www.python.org/" target="_blank">
-<img src="https://skillicons.dev/icons?i=python" height="50" />
+<img src="https://skillicons.dev/icons?i=python" height="100" />
 </a>
 
 ### Machine Learning & Deep Learning Frameworks
@@ -60,15 +60,6 @@ I'm a passionate Data Scientist with expertise in building end-to-end machine le
 <a href="https://xgboost.readthedocs.io/" target="_blank">
 <img src="https://upload.wikimedia.org/wikipedia/commons/6/69/XGBoost_logo.png" height="50" />
 </a>
-
-### Computer Vision
-<a href="https://opencv.org/" target="_blank">
-<img src="https://skillicons.dev/icons?i=opencv" height="50" />
-</a>
-<a href="https://ultralytics.com/yolo" target="_blank">
-<img src="https://github.com/ultralytics/assets/raw/main/logo/Ultralytics_Logotype_Original.svg" height="50" />
-</a>
-
 ### Natural Language Processing
 <a href="https://spacy.io/" target="_blank">
 <img src="https://upload.wikimedia.org/wikipedia/commons/8/88/SpaCy_logo.svg" height="50" />

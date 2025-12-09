@@ -84,13 +84,7 @@ Full-Stack Data Scientist | AI/ML Engineer | Machine Learning | Deep Learning | 
 <img src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo.png" height="50" />
 </a>
 <a href="https://www.langchain.com/" target="_blank">
-<img src="https://python.langchain.com/img/parrot-chainlink-icon.png" height="50" />
-</a>
-<a href="https://www.langchain.com/langsmith" target="_blank">
-<img src="https://assets-global.website-files.com/65b8cd72835ceeacd4449a53/65e4073037b9146a0f4e19a8_langsmith_logo.svg" height="50" />
-</a>
-<a href="https://www.langchain.com/langgraph" target="_blank">
-<img src="https://raw.githubusercontent.com/langchain-ai/langgraph/main/docs/static/wordmark_light.svg" height="50" />
+<img src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" height="50" alt="LangChain" />
 </a>
 <a href="https://openai.com/" target="_blank">
 <img src="https://static.vecteezy.com/system/resources/previews/022/227/364/non_2x/openai-chatgpt-logo-icon-free-png.png" height="50" />
@@ -120,7 +114,7 @@ Full-Stack Data Scientist | AI/ML Engineer | Machine Learning | Deep Learning | 
 <img src="https://streamlit.io/images/brand/streamlit-mark-color.svg" height="50" />
 </a>
 <a href="https://mlflow.org/" target="_blank">
-<img src="https://www.mlflow.org/docs/latest/_static/MLflow-logo-final-black.png" height="50" />
+<img src="https://avatars.githubusercontent.com/u/39938107?s=200&v=4" height="50" alt="MLflow" />
 </a>
 <a href="https://dvc.org/" target="_blank">
 <img src="https://dvc.org/img/logo-github-readme.png" height="50" />
@@ -152,8 +146,9 @@ Full-Stack Data Scientist | AI/ML Engineer | Machine Learning | Deep Learning | 
 <a href="https://www.jetbrains.com/pycharm/" target="_blank">
 <img src="https://skillicons.dev/icons?i=pycharm" height="50" />
 </a>
+</div>
 <a href="https://jupyter.org/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=jupyter" height="50">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" height="50" alt="Jupyter" />
 </a>
 <a href="https://colab.research.google.com/" target="_blank">
 <img src="https://colab.research.google.com/img/colab_favicon_256px.png" height="50" />
@@ -164,35 +159,33 @@ Full-Stack Data Scientist | AI/ML Engineer | Machine Learning | Deep Learning | 
 ---
 
 </div>
-<a href="https://jupyter.org/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" height="50" alt="Jupyter" />
-</a>
-
-<a href="https://www.langchain.com/" target="_blank">
-  <img src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" height="50" alt="LangChain" />
-</a>
 
 <a href="https://evidentlyai.com/" target="_blank">
-  <img src="https://avatars.githubusercontent.com/u/67492528?s=200&v=4" height="50" alt="Evidently AI" />
+  <img src="https://github.com/evidentlyai.png" height="50" alt="Evidently AI" />
 </a>
 
 <a href="https://www.trychroma.com/" target="_blank">
-  <img src="https://avatars.githubusercontent.com/u/100004233?s=200&v=4" height="50" alt="ChromaDB" />
+  <img src="https://github.com/chroma-core.png" height="50" alt="ChromaDB" />
 </a>
 
-<a href="https://mlflow.org/" target="_blank">
-  <img src="https://avatars.githubusercontent.com/u/39938107?s=200&v=4" height="50" alt="MLflow" />
-</a>
 </div>
 
 ---
 
+<!-- Evidently AI -->
+<a href="https://evidentlyai.com/" target="_blank">
+  <img src="https://avatars.githubusercontent.com/u/67492528?s=200&v=4" 
+       height="50" 
+       alt="Evidently AI Logo" />
+</a>
 
-[![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyter.org/)
-[![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)](https://www.langchain.com/)
-[![Evidently](https://img.shields.io/badge/Evidently-FF6154?style=for-the-badge)](https://evidentlyai.com/)
-[![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6600?style=for-the-badge)](https://www.trychroma.com/)
-[![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)](https://mlflow.org/)
+<!-- ChromaDB -->
+<a href="https://www.trychroma.com/" target="_blank">
+  <img src="https://avatars.githubusercontent.com/u/100004233?s=200&v=4" 
+       height="50" 
+       alt="ChromaDB Logo" />
+</a>
+
 
 ## Connect With Me
 

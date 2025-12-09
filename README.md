@@ -7,24 +7,15 @@
 
 ## 🚀 About Me
 
-I'm a passionate Data Scientist with expertise in building end-to-end machine learning solutions. I love turning data into actionable insights and creating intelligent systems that make a real-world impact.
-
-🔭 Working on: Tata Power Limited
-🌱 Learning: Advanced AI/ML
-💬 Topics: ML, DL, Data Analysis, GenAI
-📫 Contact: your.email@example.com
-⚡ Fun fact: [Add your short fun fact]
+Full-Stack Data Scientist | AI/ML Engineer | Machine Learning | Deep Learning | Generative AI & LLMs | MLOps | SQL | Python | Applied AI Solutions | Real-World Experience Working on: Tata Power Limited
 
 ---
 
-## 🧰 Tools & Technologies
+## 🧰 Tools & Technologies Data Science, Machine Learning, Deep Learning & GenAI Libraries/Frameworks
 <div align="center">
-
-### AI/LM & Machine Learning & Deep Learning Frameworks
 <a href="https://www.python.org/" target="_blank">
 <img src="https://skillicons.dev/icons?i=python" height="50" />
 </a>
-
 <a href="https://www.tensorflow.org/" target="_blank">
 <img src="https://skillicons.dev/icons?i=tensorflow" height="50" />
 </a>
@@ -174,21 +165,9 @@ I'm a passionate Data Scientist with expertise in building end-to-end machine le
 
 ---
 
-## 🧰 Core Skills & Tools
+## 🧰 Core Skills & Tools My Expertise
 
 <div align="center">
-
-### Programming Languages
-### Data Science, Machine Learning, Deep Learning & GenAI Libraries/Frameworks **Data Analysis & Visualization:**
-**Database Connectors:**  
-PyMongo · mysql-connector-python · SQLite3 · SQLAlchemy · Boto3
-**Development & Testing:**
-**Natural Language Processing:**### Databases
-**Machine Learning:**
-**Deep Learning:**
-**GenAI & LLM:**
-### Databases
-### MLOps, CI/CD & Deployment
 <a href="https://www.python.org/" target="_blank">
 <img src="https://skillicons.dev/icons?i=python" height="50" />
 </a>
@@ -350,12 +329,8 @@ PyMongo · mysql-connector-python · SQLite3 · SQLAlchemy · Boto3
 
 </div>
 
-
-
 <div align="center">
   
 ### 💡 "Data is the new oil, but like oil, it needs to be refined to be valuable."
-
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=brightgreen&style=for-the-badge)
 
 </div>

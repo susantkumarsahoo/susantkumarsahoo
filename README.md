@@ -27,7 +27,7 @@ Full-Stack Data Scientist | AI/ML Engineer | Machine Learning | Deep Learning | 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="50" />
 </a>
 <a href="https://www.statsmodels.org/" target="_blank">
-  <img src="https://www.statsmodels.org/stable/_images/statsmodels-logo-v2-horizontal.svg" height="50" />
+<img src="https://www.statsmodels.org/stable/_images/statsmodels-logo-v2-horizontal.svg" height="50" />
 </a>
 <a href="https://matplotlib.org/" target="_blank">
 <img src="https://matplotlib.org/stable/_static/logo_light.svg" height="50" />
@@ -102,7 +102,7 @@ Full-Stack Data Scientist | AI/ML Engineer | Machine Learning | Deep Learning | 
 <img src="https://www.pinecone.io/_next/image/?url=%2Fimages%2Fpinecone-logo.png&w=256&q=75" height="50" />
 </a>
 <a href="https://www.trychroma.com/" target="_blank">
-<img src="https://www.trychroma.com/chroma-logo.png" height="50" />
+<img src="https://github.com/chroma-core.png" height="50" alt="ChromaDB" />
 </a>
 <a href="https://flask.palletsprojects.com/" target="_blank">
 <img src="https://skillicons.dev/icons?i=flask" height="50" />
@@ -123,7 +123,7 @@ Full-Stack Data Scientist | AI/ML Engineer | Machine Learning | Deep Learning | 
 <img src="https://airflow.apache.org/images/feature-image.png" height="50" />
 </a>
 <a href="https://evidentlyai.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/evidentlyai/evidently/main/docs/images/evidently_logo.png" height="50" />
+<img src="https://github.com/evidentlyai.png" height="50" alt="Evidently AI" />
 </a>
 <a href="https://git-scm.com/" target="_blank">
 <img src="https://skillicons.dev/icons?i=git" height="50" />
@@ -146,7 +146,6 @@ Full-Stack Data Scientist | AI/ML Engineer | Machine Learning | Deep Learning | 
 <a href="https://www.jetbrains.com/pycharm/" target="_blank">
 <img src="https://skillicons.dev/icons?i=pycharm" height="50" />
 </a>
-</div>
 <a href="https://jupyter.org/" target="_blank">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" height="50" alt="Jupyter" />
 </a>
@@ -159,33 +158,6 @@ Full-Stack Data Scientist | AI/ML Engineer | Machine Learning | Deep Learning | 
 ---
 
 </div>
-
-<a href="https://evidentlyai.com/" target="_blank">
-  <img src="https://github.com/evidentlyai.png" height="50" alt="Evidently AI" />
-</a>
-
-<a href="https://www.trychroma.com/" target="_blank">
-  <img src="https://github.com/chroma-core.png" height="50" alt="ChromaDB" />
-</a>
-
-</div>
-
----
-
-<!-- Evidently AI -->
-<a href="https://evidentlyai.com/" target="_blank">
-  <img src="https://avatars.githubusercontent.com/u/67492528?s=200&v=4" 
-       height="50" 
-       alt="Evidently AI Logo" />
-</a>
-
-<!-- ChromaDB -->
-<a href="https://www.trychroma.com/" target="_blank">
-  <img src="https://avatars.githubusercontent.com/u/100004233?s=200&v=4" 
-       height="50" 
-       alt="ChromaDB Logo" />
-</a>
-
 
 ## Connect With Me
 

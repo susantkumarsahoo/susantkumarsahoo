@@ -188,6 +188,12 @@ Full-Stack Data Scientist | AI/ML Engineer | Machine Learning | Deep Learning | 
 ---
 
 
+[![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyter.org/)
+[![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)](https://www.langchain.com/)
+[![Evidently](https://img.shields.io/badge/Evidently-FF6154?style=for-the-badge)](https://evidentlyai.com/)
+[![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6600?style=for-the-badge)](https://www.trychroma.com/)
+[![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)](https://mlflow.org/)
+
 ## Connect With Me
 
 <div align="center">

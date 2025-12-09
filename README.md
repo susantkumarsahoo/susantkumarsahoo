@@ -1,7 +1,7 @@
 # 👋 Hi, I'm [Susant Kumar Sahoo]
 <div align="center">
   
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=DataScientist+AI/ML;MachineLearning+Engineer;AI+Engineer;Problem+Solver)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=DataScientist+AI/ML;MachineLearning+Engineer;AI+Engineer;GenAI+Engineer;Problem+Solver)](https://git.io/typing-svg)
   
 </div>
 
@@ -9,24 +9,22 @@
 
 I'm a passionate Data Scientist with expertise in building end-to-end machine learning solutions. I love turning data into actionable insights and creating intelligent systems that make a real-world impact.
 
-- 🔭 Currently working on: [Tata Power Limited]
-- 🌱 Learning: [Data Scientist – AI/ML]
-- 💬 Ask me about: Machine Learning, Deep Learning, Data Analysis Data Scientist – AI/ML GenAI
-- 📫 Reach me: [your.email@example.com]
-- ⚡ Fun fact: [Something interesting about you]
-
+🔭 Working on: Tata Power Limited
+🌱 Learning: Advanced AI/ML
+💬 Topics: ML, DL, Data Analysis, GenAI
+📫 Contact: your.email@example.com
+⚡ Fun fact: [Add your short fun fact]
 
 ---
 
 ## 🧰 Tools & Technologies
 <div align="center">
 
-### Programming Language
+### AI/LM & Machine Learning & Deep Learning Frameworks
 <a href="https://www.python.org/" target="_blank">
 <img src="https://skillicons.dev/icons?i=python" height="50" />
 </a>
 
-### Machine Learning & Deep Learning Frameworks
 <a href="https://www.tensorflow.org/" target="_blank">
 <img src="https://skillicons.dev/icons?i=tensorflow" height="50" />
 </a>
@@ -176,31 +174,27 @@ I'm a passionate Data Scientist with expertise in building end-to-end machine le
 
 ---
 
----
-
 ## 🧰 Core Skills & Tools
 
 <div align="center">
 
 ### Programming Languages
+### Data Science, Machine Learning, Deep Learning & GenAI Libraries/Frameworks **Data Analysis & Visualization:**
+**Database Connectors:**  
+PyMongo · mysql-connector-python · SQLite3 · SQLAlchemy · Boto3
+**Development & Testing:**
+**Natural Language Processing:**### Databases
+**Machine Learning:**
+**Deep Learning:**
+**GenAI & LLM:**
+### Databases
+### MLOps, CI/CD & Deployment
 <a href="https://www.python.org/" target="_blank">
 <img src="https://skillicons.dev/icons?i=python" height="50" />
 </a>
 <a href="https://www.mysql.com/" target="_blank">
 <img src="https://skillicons.dev/icons?i=mysql" height="50" />
 </a>
-
-</div>
-
-### Mathematics and Statistics
-Statistical Data Analysis · Time Series Analysis · Statistical Modeling · Regression · Classification · Clustering · Statistical Testing · Hypothesis Testing · A/B Testing · Probability · Linear Algebra · Matrix Operations · Calculus · Data Structures & Algorithms · Descriptive Statistics · Inferential Statistics
-
-### Data Science, Machine Learning, Deep Learning & GenAI Libraries/Frameworks
-
-<div align="center">
-
-**Data Analysis & Visualization:**
-
 <a href="https://numpy.org/" target="_blank">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="50" />
 </a>
@@ -225,30 +219,18 @@ Statistical Data Analysis · Time Series Analysis · Statistical Modeling · Reg
 <a href="https://powerbi.microsoft.com/" target="_blank">
 <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="50" />
 </a>
-
-**Database Connectors:**  
-PyMongo · mysql-connector-python · SQLite3 · SQLAlchemy · Boto3
-
-**Development & Testing:**
-
 <a href="https://docs.pydantic.dev/" target="_blank">
 <img src="https://docs.pydantic.dev/latest/logo-white.svg" height="50" />
 </a>
 <a href="https://pytest.org/" target="_blank">
 <img src="https://docs.pytest.org/en/stable/_static/pytest_logo_curves.svg" height="50" />
 </a>
-
-**Natural Language Processing:**
-
 <a href="https://www.nltk.org/" target="_blank">
 <img src="https://miro.medium.com/v2/resize:fit:592/1*YM2HXc7f4v02pZBEO8h-qw.png" height="50" />
 </a>
 <a href="https://www.sbert.net/" target="_blank">
 <img src="https://raw.githubusercontent.com/UKPLab/sentence-transformers/master/docs/img/logo.png" height="50" />
 </a>
-
-**Machine Learning:**
-
 <a href="https://scikit-learn.org/" target="_blank">
 <img src="https://skillicons.dev/icons?i=sklearn" height="50" />
 </a>
@@ -261,9 +243,6 @@ PyMongo · mysql-connector-python · SQLite3 · SQLAlchemy · Boto3
 <a href="https://catboost.ai/" target="_blank">
 <img src="https://upload.wikimedia.org/wikipedia/commons/c/cc/CatBoostLogo.png" height="50" />
 </a>
-
-**Deep Learning:**
-
 <a href="https://www.tensorflow.org/" target="_blank">
 <img src="https://skillicons.dev/icons?i=tensorflow" height="50" />
 </a>
@@ -273,9 +252,6 @@ PyMongo · mysql-connector-python · SQLite3 · SQLAlchemy · Boto3
 <a href="https://pytorch.org/" target="_blank">
 <img src="https://skillicons.dev/icons?i=pytorch" height="50" />
 </a>
-
-**GenAI & LLM:**
-
 <a href="https://huggingface.co/docs/transformers/" target="_blank">
 <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" height="50" />
 </a>
@@ -294,13 +270,6 @@ PyMongo · mysql-connector-python · SQLite3 · SQLAlchemy · Boto3
 <a href="https://openai.com/" target="_blank">
 <img src="https://static.vecteezy.com/system/resources/previews/022/227/364/non_2x/openai-chatgpt-logo-icon-free-png.png" height="50" />
 </a>
-
-</div>
-
-### Databases
-
-<div align="center">
-
 <a href="https://www.mysql.com/" target="_blank">
 <img src="https://skillicons.dev/icons?i=mysql" height="50" />
 </a>
@@ -316,15 +285,6 @@ PyMongo · mysql-connector-python · SQLite3 · SQLAlchemy · Boto3
 <a href="https://www.trychroma.com/" target="_blank">
 <img src="https://www.trychroma.com/chroma-logo.png" height="50" />
 </a>
-
-</div>
-
-### MLOps, CI/CD & Deployment
-
-<div align="center">
-
-**Web Frameworks:**
-
 <a href="https://flask.palletsprojects.com/" target="_blank">
 <img src="https://skillicons.dev/icons?i=flask" height="50" />
 </a>
@@ -334,9 +294,6 @@ PyMongo · mysql-connector-python · SQLite3 · SQLAlchemy · Boto3
 <a href="https://streamlit.io/" target="_blank">
 <img src="https://streamlit.io/images/brand/streamlit-mark-color.svg" height="50" />
 </a>
-
-**MLOps Tools:**
-
 <a href="https://mlflow.org/" target="_blank">
 <img src="https://www.mlflow.org/docs/latest/_static/MLflow-logo-final-black.png" height="50" />
 </a>
@@ -349,9 +306,6 @@ PyMongo · mysql-connector-python · SQLite3 · SQLAlchemy · Boto3
 <a href="https://evidentlyai.com/" target="_blank">
 <img src="https://raw.githubusercontent.com/evidentlyai/evidently/main/docs/images/evidently_logo.png" height="50" />
 </a>
-
-**Version Control & CI/CD:**
-
 <a href="https://git-scm.com/" target="_blank">
 <img src="https://skillicons.dev/icons?i=git" height="50" />
 </a>
@@ -361,24 +315,12 @@ PyMongo · mysql-connector-python · SQLite3 · SQLAlchemy · Boto3
 <a href="https://github.com/features/actions" target="_blank">
 <img src="https://skillicons.dev/icons?i=githubactions" height="50" />
 </a>
-
-**Containerization & Cloud:**
-
 <a href="https://www.docker.com/" target="_blank">
 <img src="https://skillicons.dev/icons?i=docker" height="50" />
 </a>
 <a href="https://aws.amazon.com/" target="_blank">
 <img src="https://skillicons.dev/icons?i=aws" height="50" />
 </a>
-
-</div>
-
-**AWS Services:** S3 · EC2 · ECR · ECS · RDS · SageMaker · Model Deployment
-
-### Development Environments (IDEs)
-
-<div align="center">
-
 <a href="https://code.visualstudio.com/" target="_blank">
 <img src="https://skillicons.dev/icons?i=vscode" height="50" />
 </a>
@@ -394,19 +336,17 @@ PyMongo · mysql-connector-python · SQLite3 · SQLAlchemy · Boto3
 
 </div>
 
-Visual Studio Code (VS Code) · PyCharm · Jupyter Notebooks · Google Colab
-
 ---
 
 ## 🤝 Connect With Me
 
 <div align="center">
   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/susantkumarsahoo/))
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/yourprofile)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@yourprofile)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourprofile)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yourportfolio.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/susantkumarsahoo/)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/YOUR_KAGGLE_USERNAME)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@YOUR_MEDIUM_USERNAME)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YOUR_TWITTER_HANDLE)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://YOUR_PORTFOLIO_URL.com)
 
 </div>
 

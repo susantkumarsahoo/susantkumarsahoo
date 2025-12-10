@@ -98,6 +98,9 @@ Full-Stack Data Scientist | AI/ML Engineer | Machine Learning | Deep Learning | 
 <a href="https://docs.python.org/3/library/sqlite3.html" target="_blank">
 <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/SQLite370.svg" alt="SQLite Logo" height="50"/>
 </a>
+<a href="https://www.postgresql.org/" target="_blank">
+<img src="https://www.postgresql.org/media/img/about/press/elephant.png" alt="PostgreSQL Logo" height="50"/>
+</a>
 <a href="https://www.sqlalchemy.org/" target="_blank">
 <img src="https://www.sqlalchemy.org/img/sqla_logo.png" alt="SQLAlchemy Logo" height="50"/>
 </a>
@@ -161,10 +164,19 @@ Full-Stack Data Scientist | AI/ML Engineer | Machine Learning | Deep Learning | 
 <a href="https://colab.research.google.com/" target="_blank">
 <img src="https://colab.research.google.com/img/colab_favicon_256px.png" height="50" />
 </a>
+<a href="https://boto3.amazonaws.com/v1/documentation/api/latest/index.html" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/1024px-Amazon_Web_Services_Logo.svg.png" alt="Boto3" height="50"/></a>
 
 </div>
 
 ---
+
+<!-- Boto3 (AWS SDK) -->
+<a href="https://boto3.amazonaws.com/v1/documentation/api/latest/index.html" target="_blank">
+<img src="https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png" alt="Boto3 Logo" height="50"/>
+</a>
+
+<a href="https://pymongo.readthedocs.io/" target="_blank"><img src="https://www.mongodb.com/assets/images/global/leaf.svg" alt="PyMongo" height="50"/></a>
+<a href="https://boto3.amazonaws.com/v1/documentation/api/latest/index.html" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="Boto3" height="50"/></a>
 
 ## Connect With Me
 

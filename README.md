@@ -30,7 +30,7 @@ Full-Stack Data Scientist | AI/ML Engineer | Machine Learning | Deep Learning | 
 <img src="https://www.statsmodels.org/stable/_images/statsmodels-logo-v2-horizontal.svg" height="50" />
 </a>
 <a href="https://www.scipy.org/" target="_blank">
-<img src="https://scipy.org/_static/logo.svg" alt="SciPy Logo" height="50"/>
+<img src="https://raw.githubusercontent.com/scipy/scipy/main/doc/source/_static/logo.svg" alt="SciPy Logo" height="50"/>
 </a>
 <a href="https://matplotlib.org/" target="_blank">
 <img src="https://matplotlib.org/stable/_static/logo_light.svg" height="50" />

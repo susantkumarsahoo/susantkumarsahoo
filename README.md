@@ -107,9 +107,8 @@ Full-Stack Data Scientist | AI/ML Engineer | Machine Learning | Deep Learning | 
 <a href="https://www.mongodb.com/" target="_blank">
 <img src="https://skillicons.dev/icons?i=mongodb" height="50" />
 </a>
-<a href="https://aws.amazon.com/rds/" target="_blank">
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" height="50" />
-</a>
+<a href="https://pymongo.readthedocs.io/" target="_blank"><img src="https://img.shields.io/badge/PyMongo-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="PyMongo"/></a>
+<a href="https://boto3.amazonaws.com/v1/documentation/api/latest/index.html" target="_blank"><img src="https://img.shields.io/badge/Boto3-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="Boto3"/></a>
 <a href="https://www.pinecone.io/" target="_blank">
 <img src="https://www.pinecone.io/_next/image/?url=%2Fimages%2Fpinecone-logo.png&w=256&q=75" height="50" />
 </a>
@@ -170,8 +169,11 @@ Full-Stack Data Scientist | AI/ML Engineer | Machine Learning | Deep Learning | 
 
 ---
 
-<a href="https://pymongo.readthedocs.io/" target="_blank"><img src="https://img.shields.io/badge/PyMongo-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="PyMongo"/></a>
-<a href="https://boto3.amazonaws.com/v1/documentation/api/latest/index.html" target="_blank"><img src="https://img.shields.io/badge/Boto3-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="Boto3"/></a>
+
+
+<a href="https://aws.amazon.com/documentation/" target="_blank">
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="AWS Logo"height="50"/></a>
+
 
 
 ## Connect With Me

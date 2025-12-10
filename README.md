@@ -170,13 +170,9 @@ Full-Stack Data Scientist | AI/ML Engineer | Machine Learning | Deep Learning | 
 
 ---
 
-<!-- Boto3 (AWS SDK) -->
-<a href="https://boto3.amazonaws.com/v1/documentation/api/latest/index.html" target="_blank">
-<img src="https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png" alt="Boto3 Logo" height="50"/>
-</a>
+<a href="https://pymongo.readthedocs.io/" target="_blank"><img src="https://img.shields.io/badge/PyMongo-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="PyMongo"/></a>
+<a href="https://boto3.amazonaws.com/v1/documentation/api/latest/index.html" target="_blank"><img src="https://img.shields.io/badge/Boto3-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="Boto3"/></a>
 
-<a href="https://pymongo.readthedocs.io/" target="_blank"><img src="https://www.mongodb.com/assets/images/global/leaf.svg" alt="PyMongo" height="50"/></a>
-<a href="https://boto3.amazonaws.com/v1/documentation/api/latest/index.html" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="Boto3" height="50"/></a>
 
 ## Connect With Me
 

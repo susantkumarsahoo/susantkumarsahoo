@@ -173,8 +173,9 @@ Full-Stack Data Scientist | AI/ML Engineer | Machine Learning | Deep Learning | 
 
 
 <a href="https://docs.smith.langchain.com/" target="_blank">
-  <img src="https://img.shields.io/badge/LangSmith-000000?style=for-the-badge&logo=langchain&logoColor=white" alt="LangSmith"/>
+  <img src="https://img.shields.io/badge/LangSmith-808080?style=for-the-badge&logo=langchain&logoColor=white" alt="LangSmith"/>
 </a>
+
 <a href="https://langchain-ai.github.io/langgraph/" target="_blank">
   <img src="https://img.shields.io/badge/LangGraph-0A84FF?style=for-the-badge&logo=langchain&logoColor=white" alt="LangGraph"/>
 </a>

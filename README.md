@@ -1,7 +1,7 @@
-# Hi, I'm Susant Kumar Sahoo
+# Hi, I'm Susant Kumar Sahoo!
 <div align="center">
   
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=DataScientist+AI/ML;MachineLearning+Engineer;AI+Engineer;GenAI+Engineer;Problem+Solver)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=DataScientist+AI/ML;MachineLearning+Engineer;AI+Engineer;GenAI+Engineer;Problem+Solver)](https://git.io/typing-svg)
   
 </div>
 
@@ -168,13 +168,6 @@ Full-Stack Data Scientist | AI/ML Engineer | Machine Learning | Deep Learning | 
 </div>
 
 ---
-
-
-
-<a href="https://aws.amazon.com/documentation/" target="_blank">
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="AWS Logo"height="50"/></a>
-
-
 
 ## Connect With Me
 

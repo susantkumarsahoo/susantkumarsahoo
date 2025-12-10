@@ -92,8 +92,14 @@ Full-Stack Data Scientist | AI/ML Engineer | Machine Learning | Deep Learning | 
 <a href="https://openai.com/" target="_blank">
 <img src="https://static.vecteezy.com/system/resources/previews/022/227/364/non_2x/openai-chatgpt-logo-icon-free-png.png" height="50" />
 </a>
-<a href="https://www.mysql.com/" target="_blank">
-<img src="https://skillicons.dev/icons?i=mysql" height="50" />
+<a href="https://dev.mysql.com/doc/connector-python/en/" target="_blank">
+<img src="https://labs.mysql.com/common/logos/mysql-logo.svg" alt="MySQL Logo" height="50"/>
+</a>
+<a href="https://docs.python.org/3/library/sqlite3.html" target="_blank">
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/38/SQLite370.svg" alt="SQLite Logo" height="50"/>
+</a>
+<a href="https://www.sqlalchemy.org/" target="_blank">
+<img src="https://www.sqlalchemy.org/img/sqla_logo.png" alt="SQLAlchemy Logo" height="50"/>
 </a>
 <a href="https://www.mongodb.com/" target="_blank">
 <img src="https://skillicons.dev/icons?i=mongodb" height="50" />
@@ -160,31 +166,16 @@ Full-Stack Data Scientist | AI/ML Engineer | Machine Learning | Deep Learning | 
 
 ---
 
-<!-- PyMongo -->
+
+<!-- PyMongo (MongoDB leaf logo) -->
 <a href="https://pymongo.readthedocs.io/" target="_blank">
-<img src="https://raw.githubusercontent.com/mongodb-js/leaf/master/dist/mongodb-leaf_256x256.png" alt="PyMongo Logo" height="50"/>
+<img src="https://www.mongodb.com/assets/images/global/leaf.svg" alt="PyMongo Logo" height="50"/>
 </a>
 
-<!-- MySQL Connector Python -->
-<a href="https://dev.mysql.com/doc/connector-python/en/" target="_blank">
-<img src="https://labs.mysql.com/common/logos/mysql-logo.svg" alt="MySQL Logo" height="50"/>
-</a>
-
-<!-- SQLite3 -->
-<a href="https://docs.python.org/3/library/sqlite3.html" target="_blank">
-<img src="https://upload.wikimedia.org/wikipedia/commons/3/38/SQLite370.svg" alt="SQLite Logo" height="50"/>
-</a>
-
-<!-- SQLAlchemy -->
-<a href="https://www.sqlalchemy.org/" target="_blank">
-<img src="https://www.sqlalchemy.org/img/sqla_logo.png" alt="SQLAlchemy Logo" height="50"/>
-</a>
-
-<!-- Boto3 (AWS SDK) -->
+<!-- Boto3 (AWS simple logo) -->
 <a href="https://boto3.amazonaws.com/v1/documentation/api/latest/index.html" target="_blank">
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="AWS Boto3 Logo" height="50"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/1024px-Amazon_Web_Services_Logo.svg.png" alt="Boto3 Logo" height="50"/>
 </a>
-
 
 
 ## Connect With Me

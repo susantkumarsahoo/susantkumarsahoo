@@ -89,6 +89,12 @@ Full-Stack Data Scientist | AI/ML Engineer | Machine Learning | Deep Learning | 
 <a href="https://www.langchain.com/" target="_blank">
 <img src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" height="50" alt="LangChain" />
 </a>
+<a href="https://docs.smith.langchain.com/" target="_blank">
+<img src="https://img.shields.io/badge/LangSmith-7FFF00?style=for-the-badge&logo=langchain&logoColor=white" alt="LangSmith"/>
+</a>
+<a href="https://langchain-ai.github.io/langgraph/" target="_blank">
+<img src="https://img.shields.io/badge/LangGraph-0A84FF?style=for-the-badge&logo=langchain&logoColor=white" alt="LangGraph"/>
+</a>
 <a href="https://openai.com/" target="_blank">
 <img src="https://static.vecteezy.com/system/resources/previews/022/227/364/non_2x/openai-chatgpt-logo-icon-free-png.png" height="50" />
 </a>
@@ -170,17 +176,6 @@ Full-Stack Data Scientist | AI/ML Engineer | Machine Learning | Deep Learning | 
 </div>
 
 ---
-
-
-<a href="https://docs.smith.langchain.com/" target="_blank">
-  <img src="https://img.shields.io/badge/LangSmith-808080?style=for-the-badge&logo=langchain&logoColor=white" alt="LangSmith"/>
-</a>
-
-<a href="https://langchain-ai.github.io/langgraph/" target="_blank">
-  <img src="https://img.shields.io/badge/LangGraph-0A84FF?style=for-the-badge&logo=langchain&logoColor=white" alt="LangGraph"/>
-</a>
-
-
 
 ## Connect With Me
 

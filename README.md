@@ -180,15 +180,13 @@ Full-Stack Data Scientist | AI/ML Engineer | Machine Learning | Deep Learning | 
 
 ---
 
-<a href="https://bentoml.com/" target="_blank">
-  <img src="https://avatars.githubusercontent.com/u/49176046?s=200&v=4" height="50" alt="BentoML" />
+<a href="https://www.bentoml.com/" target="_blank" rel="noopener">
+  <img src="https://www.streamlinehq.com/icons/simple-icons/bentoml.svg" height="50" alt="BentoML" />
 </a>
-<a href="https://bentoml.com/" target="_blank">
-  <img src="https://raw.githubusercontent.com/bentoml/BentoML/main/docs/_static/img/bentoml-logo.png" height="50" alt="BentoML" />
+<a href="https://www.bentoml.com/" target="_blank" rel="noopener">
+  <img src="https://brandfetch.com/bentoml.com/logo.png" height="50" alt="BentoML" />
 </a>
-<a href="https://bentoml.com/" target="_blank">
-  <img src="https://bentoml.com/images/logo.svg" height="50" alt="BentoML" />
-</a>
+
 
 ## Connect With Me
 

@@ -60,7 +60,7 @@ Full-Stack Data Scientist | AI/ML Engineer | Machine Learning | Deep Learning | 
 <img src="https://raw.githubusercontent.com/UKPLab/sentence-transformers/master/docs/img/logo.png" height="50" />
 </a>
 <a href="https://scikit-learn.org/" target="_blank">
-<img src="https://skillicons.dev/icons?i=sklearn" height="50" />
+<img src="https://skillicons.dev/icons?i=sklearn" height="70" />
 </a>
 <a href="https://xgboost.readthedocs.io/" target="_blank">
 <img src="https://upload.wikimedia.org/wikipedia/commons/6/69/XGBoost_logo.png" height="50" />
@@ -156,8 +156,8 @@ Full-Stack Data Scientist | AI/ML Engineer | Machine Learning | Deep Learning | 
 <a href="https://www.docker.com/" target="_blank">
 <img src="https://skillicons.dev/icons?i=docker" height="50" />
 </a>
-<a href="https://bentoml.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/bentoml/BentoML/main/docs/source/_static/img/bentoml-logo.png" height="50" alt="BentoML" />
+<a href="https://www.bentoml.com/" target="_blank">
+<img src="https://img.shields.io/badge/BentoML-000000?style=for-the-badge&logo=bentoml&logoColor=white"alt="BentoML"height="60"/>
 </a>
 <a href="https://aws.amazon.com/" target="_blank">
 <img src="https://skillicons.dev/icons?i=aws" height="50" />
@@ -179,30 +179,6 @@ Full-Stack Data Scientist | AI/ML Engineer | Machine Learning | Deep Learning | 
 </div>
 
 ---
-
-<p align="left">
-  <a href="https://www.bentoml.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/bentoml/BentoML/main/docs/source/_static/img/bentoml.svg"
-         alt="BentoML Logo"
-         height="70"/>
-  </a>
-</p>
-
-<p align="left">
-  <a href="https://www.bentoml.com/" target="_blank">
-    <img src="https://avatars.githubusercontent.com/u/49176046?s=280&v=4"
-         alt="BentoML Logo"
-         height="70"/>
-  </a>
-</p>
-
-<p align="left">
-  <a href="https://www.bentoml.com/" target="_blank">
-    <img src="https://img.shields.io/badge/BentoML-000000?style=for-the-badge&logo=bentoml&logoColor=white"
-         alt="BentoML"
-         height="40"/>
-  </a>
-</p>
 
 ## Connect With Me
 

@@ -156,6 +156,9 @@ Full-Stack Data Scientist | AI/ML Engineer | Machine Learning | Deep Learning | 
 <a href="https://www.docker.com/" target="_blank">
 <img src="https://skillicons.dev/icons?i=docker" height="50" />
 </a>
+<a href="https://bentoml.com/" target="_blank">
+<img src="https://skillicons.dev/icons?i=bentoml" height="50" />
+</a>
 <a href="https://aws.amazon.com/" target="_blank">
 <img src="https://skillicons.dev/icons?i=aws" height="50" />
 </a>

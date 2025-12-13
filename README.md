@@ -182,9 +182,25 @@ Full-Stack Data Scientist | AI/ML Engineer | Machine Learning | Deep Learning | 
 
 <p align="left">
   <a href="https://www.bentoml.com/" target="_blank">
-    <img src="https://www.bentoml.com/assets/images/logo.svg"
+    <img src="https://raw.githubusercontent.com/bentoml/BentoML/main/docs/source/_static/img/bentoml.svg"
          alt="BentoML Logo"
          height="70"/>
+  </a>
+</p>
+
+<p align="left">
+  <a href="https://www.bentoml.com/" target="_blank">
+    <img src="https://avatars.githubusercontent.com/u/49176046?s=280&v=4"
+         alt="BentoML Logo"
+         height="70"/>
+  </a>
+</p>
+
+<p align="left">
+  <a href="https://www.bentoml.com/" target="_blank">
+    <img src="https://img.shields.io/badge/BentoML-000000?style=for-the-badge&logo=bentoml&logoColor=white"
+         alt="BentoML"
+         height="40"/>
   </a>
 </p>
 

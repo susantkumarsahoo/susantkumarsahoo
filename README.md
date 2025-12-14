@@ -188,6 +188,17 @@ Full-Stack Data Scientist | AI/ML Engineer | Machine Learning | Deep Learning | 
 
 ---
 
+<a href="https://www.pinecone.io/" target="_blank">
+  <img
+    src="https://www.pinecone.io/_next/image/?url=%2Fimages%2Fpinecone-logo.png&w=256&q=75"
+    height="50"
+    style="border:2px solid red; border-radius:6px; padding:4px;"
+    alt="Pinecone"
+  />
+</a>
+
+
+
 ## Connect With Me
 
 <div align="center">

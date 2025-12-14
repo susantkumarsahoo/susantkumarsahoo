@@ -131,6 +131,14 @@ Full-Stack Data Scientist | AI/ML Engineer | Machine Learning | Deep Learning | 
 </a>
 <a href="https://streamlit.io/" target="_blank">
 <img src="https://streamlit.io/images/brand/streamlit-mark-color.svg" height="50" />
+<a href="https://www.gradio.app/" target="_blank">
+<img src="https://www.gradio.app/_app/immutable/assets/gradio.CHB5adID.svg" height="50" />
+</a>
+<a href="https://dash.plotly.com/" target="_blank">
+<img src="https://dash.plotly.com/assets/images/logo-plotly.png" height="50" />
+</a>
+<a href="https://nicegui.io/" target="_blank">
+<img src="https://nicegui.io/logo_square.png" height="50" />
 </a>
 <a href="https://mlflow.org/" target="_blank">
 <img src="https://avatars.githubusercontent.com/u/39938107?s=200&v=4" height="50" alt="MLflow" />

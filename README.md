@@ -149,6 +149,12 @@ Full-Stack Data Scientist | AI/ML Engineer | Machine Learning | Deep Learning | 
 <a href="https://airflow.apache.org/" target="_blank">
 <img src="https://airflow.apache.org/images/feature-image.png" height="50" />
 </a>
+<a href="https://spark.apache.org/" target="_blank">
+<img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" height="50" />
+</a>
+<a href="https://spark.apache.org/docs/latest/api/python/" target="_blank">
+<img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" height="50" />
+</a>
 <a href="https://evidentlyai.com/" target="_blank">
 <img src="https://github.com/evidentlyai.png" height="50" alt="Evidently AI" />
 </a>

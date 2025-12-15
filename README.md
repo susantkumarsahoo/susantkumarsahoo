@@ -202,6 +202,6 @@ Full-Stack Data Scientist | AI/ML Engineer | Machine Learning | Deep Learning | 
 
 <div align="center">
   
-### Data is the new oil, but like oil, it needs to be refined to be valuable.
+### Big Data is the new oil, but like oil, it needs to be refined to be valuable.
 
 </div>

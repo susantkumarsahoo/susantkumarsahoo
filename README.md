@@ -129,6 +129,9 @@ Full-Stack Data Scientist | AI/ML Engineer | Machine Learning | Deep Learning | 
 <a href="https://fastapi.tiangolo.com/" target="_blank">
 <img src="https://skillicons.dev/icons?i=fastapi" height="50" />
 </a>
+<a href="https://www.djangoproject.com/" target="_blank">
+<img src="https://upload.wikimedia.org/wikipedia/commons/7/75/Django_logo.svg"height="70"alt="Django"/>
+</a>
 <a href="https://streamlit.io/" target="_blank">
 <img src="https://streamlit.io/images/brand/streamlit-mark-color.svg" height="50" />
 <a href="https://www.gradio.app/" target="_blank">

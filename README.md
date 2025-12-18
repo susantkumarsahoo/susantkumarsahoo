@@ -196,6 +196,14 @@ Full-Stack Data Scientist | AI/ML Engineer | Machine Learning | Deep Learning | 
 
 ---
 
+<a href="https://www.databricks.com/" target="_blank">
+  <img 
+    src="https://upload.wikimedia.org/wikipedia/commons/6/63/Databricks_Logo.png"
+    height="70"
+    alt="Databricks"
+  />
+</a>
+
 ## Connect With Me
 
 <div align="center">

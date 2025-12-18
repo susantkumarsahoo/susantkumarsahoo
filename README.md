@@ -190,19 +190,10 @@ Full-Stack Data Scientist | AI/ML Engineer | Machine Learning | Deep Learning | 
 </a>
 <a href="https://boto3.amazonaws.com/v1/documentation/api/latest/index.html" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/1024px-Amazon_Web_Services_Logo.svg.png" alt="Boto3" height="50"/></a>
 <a href="https://www.databricks.com/" target="_blank">
-<img src="https://skillicons.dev/icons?i=databricks" height="70" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/63/Databricks_Logo.png"height="70"alt="Databricks"/>
 </a>
-</div>
 
 ---
-
-<a href="https://www.databricks.com/" target="_blank">
-  <img 
-    src="https://upload.wikimedia.org/wikipedia/commons/6/63/Databricks_Logo.png"
-    height="70"
-    alt="Databricks"
-  />
-</a>
 
 ## Connect With Me
 

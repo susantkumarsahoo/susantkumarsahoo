@@ -130,7 +130,7 @@ Full-Stack Data Scientist | AI/ML Engineer | Machine Learning | Deep Learning | 
 <img src="https://skillicons.dev/icons?i=fastapi" height="50" />
 </a>
 <a href="https://www.djangoproject.com/" target="_blank">
-<img src="https://upload.wikimedia.org/wikipedia/commons/7/75/Django_logo.svg"height="70"alt="Django"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/7/75/Django_logo.svg"height="50"alt="Django"/>
 </a>
 <a href="https://streamlit.io/" target="_blank">
 <img src="https://streamlit.io/images/brand/streamlit-mark-color.svg" height="50" />
@@ -193,10 +193,18 @@ Full-Stack Data Scientist | AI/ML Engineer | Machine Learning | Deep Learning | 
 </a>
 <a href="https://boto3.amazonaws.com/v1/documentation/api/latest/index.html" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/1024px-Amazon_Web_Services_Logo.svg.png" alt="Boto3" height="50"/></a>
 <a href="https://www.databricks.com/" target="_blank">
-<img src="https://upload.wikimedia.org/wikipedia/commons/6/63/Databricks_Logo.png"height="70"alt="Databricks"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/63/Databricks_Logo.png"height="50"alt="Databricks"/>
 </a>
 
 ---
+
+<a href="https://en.wikipedia.org/wiki/SQL" target="_blank">
+  <img 
+    src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png"
+    height="50"
+    alt="SQL"
+  />
+</a>
 
 ## Connect With Me
 

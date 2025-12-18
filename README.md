@@ -19,7 +19,7 @@ Full-Stack Data Scientist | AI/ML Engineer | Machine Learning | Deep Learning | 
 </a>
 <a href="https://en.wikipedia.org/wiki/SQL" target="_blank">
 <img 
-src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png"height="50"alt="SQL"/>
+src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png"height="40"alt="SQL"/>
 </a>
 <a href="https://numpy.org/" target="_blank">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="50" />

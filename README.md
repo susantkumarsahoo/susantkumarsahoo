@@ -15,10 +15,11 @@ Full-Stack Data Scientist | AI/ML Engineer | Machine Learning | Deep Learning | 
 
 <div align="center">
 <a href="https://www.python.org/" target="_blank">
-<img src="https://skillicons.dev/icons?i=python" height="50" />
+<img src="https://skillicons.dev/icons?i=python" height="60" />
 </a>
-<a href="https://www.mysql.com/" target="_blank">
-<img src="https://skillicons.dev/icons?i=mysql" height="50" />
+<a href="https://en.wikipedia.org/wiki/SQL" target="_blank">
+<img 
+src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png"height="50"alt="SQL"/>
 </a>
 <a href="https://numpy.org/" target="_blank">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="50" />
@@ -193,18 +194,10 @@ Full-Stack Data Scientist | AI/ML Engineer | Machine Learning | Deep Learning | 
 </a>
 <a href="https://boto3.amazonaws.com/v1/documentation/api/latest/index.html" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/1024px-Amazon_Web_Services_Logo.svg.png" alt="Boto3" height="50"/></a>
 <a href="https://www.databricks.com/" target="_blank">
-<img src="https://upload.wikimedia.org/wikipedia/commons/6/63/Databricks_Logo.png"height="50"alt="Databricks"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/63/Databricks_Logo.png"height="60"alt="Databricks"/>
 </a>
 
 ---
-
-<a href="https://en.wikipedia.org/wiki/SQL" target="_blank">
-  <img 
-    src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png"
-    height="50"
-    alt="SQL"
-  />
-</a>
 
 ## Connect With Me
 

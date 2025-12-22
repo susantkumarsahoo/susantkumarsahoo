@@ -219,11 +219,77 @@ src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo
 ### Big Data is the new oil, but like oil, it needs to be refined to be valuable.
 
 </div>
------
-os . string · re · difflib . textwrap · unicodedata · stringprep · datetime · calendar · collections · array · types · copy · pprint . numbers · math · cmath · decimal · fractions · random · statistics . itertools · functools · operator. 
-pathlib · os.path · shutil . fileinput · stat · filecmp · tempfile · glob · fnmatch · linecache · pickle · copyreg · sqlite3 . csv · configparser · io · time · argparse · getopt · logging · getpass · platform . typing · pydoc · doctest · unittest · test · venv . sys · sysconfig · builtins · warnings · dataclasses · contextlib · traceback · inspect . abc . multiprocessing . json . asyncio . uuid . concurrent.futures. threading 
------
+---
+abc . argparse . array . asyncio . builtins . calendar . cmath . collections . concurrent.futures . configparser . contextlib . copy . copyreg . csv . dataclasses . datetime . decimal . difflib . doctest . filecmp . fileinput . fnmatch . fractions . functools . getpass . glob . inspect . io . itertools . json . linecache . logging . math . multiprocessing . numbers . operator . os . os.path . pathlib . pickle . platform . pprint . pydoc . random . re . shutil . sqlite3 . stat . statistics . string . stringprep . sys . sysconfig . tempfile . test . textwrap . threading . time . traceback . typing . unicodedata . unittest . uuid . venv . warnings
+---
 
+<p>
+<span style="color:#e74c3c">. abc</span>
+<span style="color:#3498db">. argparse</span>
+<span style="color:#9b59b6">. array</span>
+<span style="color:#1abc9c">. asyncio</span>
+<span style="color:#f39c12">. builtins</span>
+<span style="color:#e67e22">. calendar</span>
+<span style="color:#16a085">. cmath</span>
+<span style="color:#2980b9">. collections</span>
+<span style="color:#8e44ad">. concurrent.futures</span>
+<span style="color:#27ae60">. configparser</span>
+<span style="color:#d35400">. contextlib</span>
+<span style="color:#c0392b">. copy</span>
+<span style="color:#7f8c8d">. copyreg</span>
+<span style="color:#2ecc71">. csv</span>
+<span style="color:#34495e">. dataclasses</span>
+<span style="color:#f1c40f">. datetime</span>
+<span style="color:#9b59b6">. decimal</span>
+<span style="color:#1abc9c">. difflib</span>
+<span style="color:#3498db">. doctest</span>
+<span style="color:#e74c3c">. filecmp</span>
+<span style="color:#16a085">. fileinput</span>
+<span style="color:#2980b9">. fnmatch</span>
+<span style="color:#8e44ad">. fractions</span>
+<span style="color:#27ae60">. functools</span>
+<span style="color:#d35400">. getpass</span>
+<span style="color:#c0392b">. glob</span>
+<span style="color:#7f8c8d">. inspect</span>
+<span style="color:#2ecc71">. io</span>
+<span style="color:#34495e">. itertools</span>
+<span style="color:#f1c40f">. json</span>
+<span style="color:#9b59b6">. linecache</span>
+<span style="color:#1abc9c">. logging</span>
+<span style="color:#3498db">. math</span>
+<span style="color:#e74c3c">. multiprocessing</span>
+<span style="color:#16a085">. numbers</span>
+<span style="color:#2980b9">. operator</span>
+<span style="color:#8e44ad">. os</span>
+<span style="color:#27ae60">. os.path</span>
+<span style="color:#d35400">. pathlib</span>
+<span style="color:#c0392b">. pickle</span>
+<span style="color:#7f8c8d">. platform</span>
+<span style="color:#2ecc71">. pprint</span>
+<span style="color:#34495e">. pydoc</span>
+<span style="color:#f1c40f">. random</span>
+<span style="color:#9b59b6">. re</span>
+<span style="color:#1abc9c">. shutil</span>
+<span style="color:#3498db">. sqlite3</span>
+<span style="color:#e74c3c">. stat</span>
+<span style="color:#16a085">. statistics</span>
+<span style="color:#2980b9">. string</span>
+<span style="color:#8e44ad">. stringprep</span>
+<span style="color:#27ae60">. sys</span>
+<span style="color:#d35400">. sysconfig</span>
+<span style="color:#c0392b">. tempfile</span>
+<span style="color:#7f8c8d">. test</span>
+<span style="color:#2ecc71">. textwrap</span>
+<span style="color:#34495e">. threading</span>
+<span style="color:#f1c40f">. time</span>
+<span style="color:#9b59b6">. traceback</span>
+<span style="color:#1abc9c">. typing</span>
+<span style="color:#3498db">. unicodedata</span>
+<span style="color:#e74c3c">. unittest</span>
+<span style="color:#16a085">. uuid</span>
+<span style="color:#2980b9">. venv</span>
+<span style="color:#8e44ad">. warnings</span>
+</p>
 
 
 

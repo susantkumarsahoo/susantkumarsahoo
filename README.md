@@ -199,6 +199,10 @@ src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo
 
 ---
 
+<a href="requests.readthedocs.io" target="_blank">
+<img src="requests.readthedocs.ioen/latest/_static/requests-sidebar.png" height="50" alt="Requests Documentation" />
+</a>
+
 ## Connect With Me
 
 <div align="center">

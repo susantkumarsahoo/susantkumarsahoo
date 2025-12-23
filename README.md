@@ -8,11 +8,8 @@
 ## About Me
 
 Full-Stack Data Scientist | AI/ML Engineer | Machine Learning | Deep Learning | Generative AI & LLMs | MLOps | SQL | Python | Applied AI Solutions | Real-World Experience | Working on: Tata Power Limited
-
-## Data Science, Machine Learning, Deep Learning & GenAI Libraries/Frameworks/Technologies
-
 ---
-
+## Data Science, Machine Learning, Deep Learning & GenAI Libraries/Frameworks/Technologies
 <div align="center">
 <a href="https://www.python.org/" target="_blank">
 <img src="https://skillicons.dev/icons?i=python" height="60" />
@@ -207,6 +204,8 @@ src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo
 abc 🔴 argparse 🔵 array 🟢 asyncio 🟣 builtins 🟠 calendar 🔵 cmath 🟢 collections 🟣 concurrent.futures 🟠 configparser 🔵 contextlib 🟢 copy 🟣 copyreg 🟠 csv 🔵 dataclasses 🟢 datetime 🟣 decimal 🟠 difflib 🔵 doctest 🟢 filecmp 🟣 fileinput 🟠 fnmatch 🔵 fractions 🟢 functools 🟣 getpass 🟠 glob 🔵 inspect 🟢 io 🟣 itertools 🟠 json 🔵 linecache 🟢 logging 🟣 math 🟠 multiprocessing 🔵 numbers 🟢 operator 🟣 os 🟠 os.path 🔵 pathlib 🟢 pickle 🟣 platform 🟠 pprint 🔵 pydoc 🟢 random 🟣 re 🟠 shutil 🔵 sqlite3 🟢 stat 🟣 statistics 🟠 string 🔵 stringprep 🟢 sys 🟣 sysconfig 🟠 tempfile 🔵 test 🟢 textwrap 🟣 threading 🟠 time 🔵 traceback 🟢 typing 🟣 unicodedata 🟠 unittest 🔵 uuid 🟢 venv 🟣 warnings 🟠
 
 </div>
+
+---
 
 <div align="center">
   

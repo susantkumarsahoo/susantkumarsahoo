@@ -9,8 +9,6 @@
 
 Full-Stack Data Scientist | AI/ML Engineer | Machine Learning | Deep Learning | Generative AI & LLMs | MLOps | SQL | Python | Applied AI Solutions | Real-World Experience | Working on: Tata Power Limited
 
----
-
 ## Data Science, Machine Learning, Deep Learning & GenAI Libraries/Frameworks/Technologies
 
 <div align="center">

@@ -202,6 +202,13 @@ src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo
 
 ---
 
+</div>
+
+abc 🔴 argparse 🔵 array 🟢 asyncio 🟣 builtins 🟠 calendar 🔵 cmath 🟢 collections 🟣 concurrent.futures 🟠 configparser 🔵 contextlib 🟢 copy 🟣 copyreg 🟠 csv 🔵 dataclasses 🟢 datetime 🟣 decimal 🟠 difflib 🔵 doctest 🟢 filecmp 🟣 fileinput 🟠 fnmatch 🔵 fractions 🟢 functools 🟣 getpass 🟠 glob 🔵 inspect 🟢 io 🟣 itertools 🟠 json 🔵 linecache 🟢 logging 🟣 math 🟠 multiprocessing 🔵 numbers 🟢 operator 🟣 os 🟠 os.path 🔵 pathlib 🟢 pickle 🟣 platform 🟠 pprint 🔵 pydoc 🟢 random 🟣 re 🟠 shutil 🔵 sqlite3 🟢 stat 🟣 statistics 🟠 string 🔵 stringprep 🟢 sys 🟣 sysconfig 🟠 tempfile 🔵 test 🟢 textwrap 🟣 threading 🟠 time 🔵 traceback 🟢 typing 🟣 unicodedata 🟠 unittest 🔵 uuid 🟢 venv 🟣 warnings 🟠
+
+</div>
+
+---
 ## Connect With Me
 
 <div align="center">
@@ -217,14 +224,3 @@ src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo
 <div align="center">
   
 ### Big Data is the new oil, but like oil, it needs to be refined to be valuable.
----
-
-</div>
-
-abc 🔴 argparse 🔵 array 🟢 asyncio 🟣 builtins 🟠 calendar 🔵 cmath 🟢 collections 🟣 concurrent.futures 🟠 configparser 🔵 contextlib 🟢 copy 🟣 copyreg 🟠 csv 🔵 dataclasses 🟢 datetime 🟣 decimal 🟠 difflib 🔵 doctest 🟢 filecmp 🟣 fileinput 🟠 fnmatch 🔵 fractions 🟢 functools 🟣 getpass 🟠 glob 🔵 inspect 🟢 io 🟣 itertools 🟠 json 🔵 linecache 🟢 logging 🟣 math 🟠 multiprocessing 🔵 numbers 🟢 operator 🟣 os 🟠 os.path 🔵 pathlib 🟢 pickle 🟣 platform 🟠 pprint 🔵 pydoc 🟢 random 🟣 re 🟠 shutil 🔵 sqlite3 🟢 stat 🟣 statistics 🟠 string 🔵 stringprep 🟢 sys 🟣 sysconfig 🟠 tempfile 🔵 test 🟢 textwrap 🟣 threading 🟠 time 🔵 traceback 🟢 typing 🟣 unicodedata 🟠 unittest 🔵 uuid 🟢 venv 🟣 warnings 🟠
-
-</div>
-
----
-
-

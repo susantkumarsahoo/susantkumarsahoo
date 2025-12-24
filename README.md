@@ -208,6 +208,44 @@ abc 🔴 argparse 🔵 array 🟢 asyncio 🟣 builtins 🟠 calendar 🔵 cmath
 
 </div>
 
+</div>
+
+Core Skills & Tools
+Programming Languages
+
+Python – High-Level Programming Language
+SQL – Structured Query Language
+
+Mathematics and Statistics
+Statistical Data Analysis · Time Series Analysis · Statistical Modeling · Regression · Classification · Clustering · Statistical Testing · Hypothesis Testing · A/B Testing · Probability · Linear Algebra · Matrix Operations · Calculus · Data Structures & Algorithms · Descriptive Statistics · Inferential Statistics
+
+Data Science, Machine Learning, Deep Learning & GenAI Libraries/Frameworks
+Data Analysis & Visualization: NumPy · Pandas · Statsmodels · SciPy · Matplotlib · Seaborn · Plotly · Requests (APIs) · Excel · Power BI
+
+Database Connectors & ORMs: PyMongo · mysql-connector-python · SQLite3 · SQLAlchemy · Boto3
+
+Development & Testing: Pydantic · Pytest
+
+NLP: NLTK · SentenceTransformers
+
+Machine Learning: Scikit-learn · XGBoost · LightGBM · CatBoost · MLlib (PySpark)
+
+Deep Learning: TensorFlow · Keras · PyTorch · PySpark
+
+GenAI & LLM: Transformers · Hugging Face · LangChain · LangSmith · LangGraph · OpenAI API
+
+Databases: Relational: SQLite · MySQL · Amazon RDS, NoSQL / Vector: MongoDB · Pinecone · Chroma
+
+MLOps, CI/CD & Deployment: Web Frameworks: Flask · FastAPI · Streamlit · NiceGUI 
+
+MLOps Tools: MLflow · DVC · Airflow · Evidently AI · Bentoml
+
+Version Control & CI/CD: Git · GitHub · GitHub Actions
+
+Containerization & Cloud: Docker · AWS (S3, EC2, ECR, ECS, RDS, SageMaker) · Model Packaging & Deployment
+
+</div>
+
 ---
 
 <div align="center">

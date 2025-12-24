@@ -208,41 +208,43 @@ abc 🔴 argparse 🔵 array 🟢 asyncio 🟣 builtins 🟠 calendar 🔵 cmath
 
 </div>
 
+---
+
 </div>
 
-Core Skills & Tools
-Programming Languages
 
-Python – High-Level Programming Language
-SQL – Structured Query Language
+🧠 Core Skills & Tools
+💻 Programming Languages🐍 Python – High-Level Programming Language
+🗄️ SQL – Structured Query Language
 
-Mathematics and Statistics
-Statistical Data Analysis · Time Series Analysis · Statistical Modeling · Regression · Classification · Clustering · Statistical Testing · Hypothesis Testing · A/B Testing · Probability · Linear Algebra · Matrix Operations · Calculus · Data Structures & Algorithms · Descriptive Statistics · Inferential Statistics
+📐 Mathematics & Statistics 📊 Statistical Data Analysis · 📈 Time Series Analysis · 🧮 Statistical Modeling📉 Regression · 🧠 Classification · 🔗 Clustering ✅ Statistical Testing · 🧪 Hypothesis Testing · 🅰️🅱️ A/B Testing 🎲 Probability · 📐 Linear Algebra · 🔢 Matrix Operations · 📘 Calculus 🧩 Data Structures & Algorithms📋 Descriptive Statistics · 📊 Inferential Statistics
 
-Data Science, Machine Learning, Deep Learning & GenAI Libraries/Frameworks
-Data Analysis & Visualization: NumPy · Pandas · Statsmodels · SciPy · Matplotlib · Seaborn · Plotly · Requests (APIs) · Excel · Power BI
+📊 Data Science, ML, DL & GenAI Libraries / Frameworks
+🔍 Data Analysis & Visualization 🔢 NumPy · 🐼 Pandas · 📐 Statsmodels · 🧪 SciPy📉 Matplotlib · 🎨 Seaborn · 📊 Plotly 🌐 Requests (APIs) · 📗 Excel · 📊 Power BI
 
-Database Connectors & ORMs: PyMongo · mysql-connector-python · SQLite3 · SQLAlchemy · Boto3
+🗄️ Database Connectors & ORMs 🍃 PyMongo · 🐬 mysql-connector-python · 🗃️ SQLite3 🧬 SQLAlchemy · ☁️ Boto3 
 
-Development & Testing: Pydantic · Pytest
+🛠️ Development & Testing ✅ Pydantic · 🧪 Pytest
 
-NLP: NLTK · SentenceTransformers
+🗣️ Natural Language Processing (NLP) 📚 NLTK · 🧠 SentenceTransformers
 
-Machine Learning: Scikit-learn · XGBoost · LightGBM · CatBoost · MLlib (PySpark)
+🤖 Machine Learning 🧠 Scikit-learn · 🚀 XGBoost · 💡 LightGBM · 🐱 CatBoost⚡ MLlib (PySpark)
 
-Deep Learning: TensorFlow · Keras · PyTorch · PySpark
+🧬 Deep Learning 🔶 TensorFlow · 🔷 Keras · 🔥 PyTorch · ⚡ PySpark
 
-GenAI & LLM: Transformers · Hugging Face · LangChain · LangSmith · LangGraph · OpenAI API
+🧠 GenAI & Large Language Models (LLMs) 🤗 Transformers · 🤗 Hugging Face 🔗 LangChain · 📊 LangSmith · 🧠 LangGraph 🌐 OpenAI API
 
-Databases: Relational: SQLite · MySQL · Amazon RDS, NoSQL / Vector: MongoDB · Pinecone · Chroma
+🗃️ Databases Relational: 🗄️ SQLite · 🐬 MySQL · ☁️ Amazon RDS NoSQL / Vector: 🍃 MongoDB · 📌 Pinecone · 🧠 Chroma
 
-MLOps, CI/CD & Deployment: Web Frameworks: Flask · FastAPI · Streamlit · NiceGUI 
+🚀 MLOps, CI/CD & Deployment
+🌐 Web Frameworks 🌶️ Flask · ⚡ FastAPI · 📊 Streamlit · 🎨 NiceGUI
 
-MLOps Tools: MLflow · DVC · Airflow · Evidently AI · Bentoml
+🔧 MLOps Tools 📈 MLflow · 📦 DVC · ⏱️ Airflow 🧪 Evidently AI · 📦 BentoML
 
-Version Control & CI/CD: Git · GitHub · GitHub Actions
+🔁 Version Control & CI/CD 🧬 Git · 🐙 GitHub · ⚙️ GitHub Actions
 
-Containerization & Cloud: Docker · AWS (S3, EC2, ECR, ECS, RDS, SageMaker) · Model Packaging & Deployment
+☁️ Containerization & Cloud 🐳 Docker ☁️ AWS: S3 · EC2 · ECR · ECS · RDS · SageMaker 📦 Model Packaging & Deployment
+
 
 </div>
 

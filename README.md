@@ -202,12 +202,12 @@ src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo
 
 <!-- pmdarima -->
 <a href="https://alkaline-ml.com/pmdarima/" target="_blank">
-  <img src="https://cloud.tencent.com/developer/article/2009541" height="50" />
+  <img src="https://alkaline-ml.com/pmdarima/img/pmdarima-logo.png" alt="pmdarima" height="50" />
 </a>
 
 <!-- PyPDF2 -->
 <a href="https://pypdf2.readthedocs.io/" target="_blank">
-  <img src="https://vinasupport.com/thiet-lap-mat-khau-cho-file-pdf-su-dung-python/" height="50" />
+  <img src="https://pypdf2.readthedocs.io/en/3.x/_static/pypdf2-logo.png" alt="PyPDF2" height="50" />
 </a>
 
 

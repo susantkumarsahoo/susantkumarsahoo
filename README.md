@@ -210,6 +210,23 @@ src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo
   <img src="https://pypdf2.readthedocs.io/en/3.x/_static/pypdf2-logo.png" alt="PyPDF2" height="50" />
 </a>
 
+<!-- pmdarima -->
+<a href="https://alkaline-ml.com/pmdarima/" target="_blank">
+  <img src="https://img.shields.io/badge/pmdarima-docs-blue" alt="pmdarima" height="30" />
+</a>
+
+<!-- PyPDF2 -->
+<a href="https://pypdf2.readthedocs.io/" target="_blank">
+  <img src="https://img.shields.io/badge/PyPDF2-docs-orange" alt="PyPDF2" height="30" />
+</a>
+<a href="https://alkaline-ml.com/pmdarima/" target="_blank">
+  <img src="https://img.shields.io/pypi/v/pmdarima" alt="pmdarima" height="30" />
+</a>
+
+<a href="https://pypdf2.readthedocs.io/" target="_blank">
+  <img src="https://img.shields.io/pypi/v/pypdf2" alt="PyPDF2" height="30" />
+</a>
+
 
 ---
 

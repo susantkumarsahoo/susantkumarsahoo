@@ -200,22 +200,18 @@ src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo
 <img src="https://upload.wikimedia.org/wikipedia/commons/6/63/Databricks_Logo.png"height="60"alt="Databricks"/>
 </a>
 
----
-
 <!-- pmdarima -->
 <a href="https://alkaline-ml.com/pmdarima/" target="_blank">
-  <img src="https://alkaline-ml.com/pmdarima/_static/pmdarima-logo.png" height="50" />
+  <img src="https://cloud.tencent.com/developer/article/2009541" height="50" />
 </a>
 
 <!-- PyPDF2 -->
 <a href="https://pypdf2.readthedocs.io/" target="_blank">
-  <img src="https://pypdf2.readthedocs.io/en/latest/_static/pypdf2-logo.png" height="50" />
+  <img src="https://vinasupport.com/thiet-lap-mat-khau-cho-file-pdf-su-dung-python/" height="50" />
 </a>
 
 
-
-
-
+---
 
 </div>
 

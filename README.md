@@ -202,6 +202,21 @@ src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo
 
 ---
 
+<!-- pmdarima -->
+<a href="https://alkaline-ml.com/pmdarima/" target="_blank">
+  <img src="https://alkaline-ml.com/pmdarima/_static/pmdarima-logo.png" height="50" />
+</a>
+
+<!-- PyPDF2 -->
+<a href="https://pypdf2.readthedocs.io/" target="_blank">
+  <img src="https://pypdf2.readthedocs.io/en/latest/_static/pypdf2-logo.png" height="50" />
+</a>
+
+
+
+
+
+
 </div>
 
 abc 🔴 argparse 🔵 array 🟢 asyncio 🟣 builtins 🟠 calendar 🔵 cmath 🟢 collections 🟣 concurrent.futures 🟠 configparser 🔵 contextlib 🟢 copy 🟣 copyreg 🟠 csv 🔵 dataclasses 🟢 datetime 🟣 decimal 🟠 difflib 🔵 doctest 🟢 filecmp 🟣 fileinput 🟠 fnmatch 🔵 fractions 🟢 functools 🟣 getpass 🟠 glob 🔵 inspect 🟢 io 🟣 itertools 🟠 json 🔵 linecache 🟢 logging 🟣 math 🟠 multiprocessing 🔵 numbers 🟢 operator 🟣 os 🟠 os.path 🔵 pathlib 🟢 pickle 🟣 platform 🟠 pprint 🔵 pydoc 🟢 random 🟣 re 🟠 shutil 🔵 sqlite3 🟢 stat 🟣 statistics 🟠 string 🔵 stringprep 🟢 sys 🟣 sysconfig 🟠 tempfile 🔵 test 🟢 textwrap 🟣 threading 🟠 time 🔵 traceback 🟢 typing 🟣 unicodedata 🟠 unittest 🔵 uuid 🟢 venv 🟣 warnings 🟠
@@ -214,7 +229,7 @@ abc 🔴 argparse 🔵 array 🟢 asyncio 🟣 builtins 🟠 calendar 🔵 cmath
 
 
 🧠 Core Skills & Tools 💻 Programming Languages🐍 Python – High-Level Programming Language🗄️ SQL – Structured Query Language 📐 Mathematics & Statistics 📊 Statistical Data Analysis · 📈 Time Series Analysis · 🧮 Statistical Modeling📉 Regression · 🧠 Classification · 🔗 Clustering ✅ Statistical Testing · 🧪 Hypothesis Testing · 🅰️🅱️ A/B Testing 🎲 Probability · 📐 Linear Algebra · 🔢 Matrix Operations · 📘 Calculus 🧩 Data Structures & Algorithms📋 Descriptive Statistics · 📊 Inferential Statistics
-📊 Data Science, ML, DL & GenAI Libraries / Frameworks 🔍 Data Analysis & Visualization 🔢 NumPy · 🐼 Pandas · 📐 Statsmodels · 🧪 SciPy📉 Matplotlib · 🎨 Seaborn · 📊 Plotly 🌐 Requests (APIs) · 📚 PyPDF2 · 📗 Excel · 📊 Power BI 🗄️ Database Connectors & ORMs 🍃 PyMongo · 🐬 mysql-connector-python · 🗃️ SQLite3 🧬 SQLAlchemy · ☁️ Boto3 🛠️ Development & Testing ✅ Pydantic · 🧪 Pytest 🗣️ Natural Language Processing (NLP) 📚 NLTK · 🧠 SentenceTransformers 🤖 Machine Learning 🧠 Scikit-learn · 🚀 XGBoost · 💡 LightGBM · 🐱 CatBoost⚡ MLlib (PySpark) 🧬 Deep Learning 🔶 TensorFlow · 🔷 Keras · 🔥 PyTorch · ⚡ PySpark 🧠 GenAI & Large Language Models (LLMs) 🤗 Transformers · 🤗 Hugging Face 🔗 LangChain · 📊 LangSmith · 🧠 LangGraph 🌐 OpenAI API 🗃️ Databases Relational: 🗄️ SQLite · 🐬 MySQL · ☁️ Amazon RDS NoSQL / Vector: 🍃 MongoDB · 📌 Pinecone · 🧠 Chroma 🚀 MLOps, CI/CD & Deployment 🌐 Web Frameworks 🌶️ Flask · ⚡ FastAPI · 📊 Streamlit · 🎨 NiceGUI 🔧 MLOps Tools 📈 MLflow · 📦 DVC · ⏱️ Airflow 🧪 Evidently AI · 📦 BentoML 🔁 Version Control & CI/CD 🧬 Git · 🐙 GitHub · ⚙️ GitHub Actions ☁️ Containerization & Cloud 🐳 Docker ☁️ AWS: S3 · EC2 · ECR · ECS · RDS · SageMaker 📦 Model Packaging & Deployment.
+📊 Data Science, ML, DL & GenAI Libraries / Frameworks 🔍 Data Analysis & Visualization 🔢 NumPy · 🐼 Pandas · 📐 Statsmodels · 📐pmdarima · 🧪 SciPy📉 Matplotlib · 🎨 Seaborn · 📊 Plotly 🌐 Requests (APIs) · 📚 PyPDF2 · 📗 Excel · 📊 Power BI 🗄️ Database Connectors & ORMs 🍃 PyMongo · 🐬 mysql-connector-python · 🗃️ SQLite3 🧬 SQLAlchemy · ☁️ Boto3 🛠️ Development & Testing ✅ Pydantic · 🧪 Pytest 🗣️ Natural Language Processing (NLP) 📚 NLTK · 🧠 SentenceTransformers 🤖 Machine Learning 🧠 Scikit-learn · 🚀 XGBoost · 💡 LightGBM · 🐱 CatBoost⚡ MLlib (PySpark) 🧬 Deep Learning 🔶 TensorFlow · 🔷 Keras · 🔥 PyTorch · ⚡ PySpark 🧠 GenAI & Large Language Models (LLMs) 🤗 Transformers · 🤗 Hugging Face 🔗 LangChain · 📊 LangSmith · 🧠 LangGraph 🌐 OpenAI API 🗃️ Databases Relational: 🗄️ SQLite · 🐬 MySQL · ☁️ Amazon RDS NoSQL / Vector: 🍃 MongoDB · 📌 Pinecone · 🧠 Chroma 🚀 MLOps, CI/CD & Deployment 🌐 Web Frameworks 🌶️ Flask · ⚡ FastAPI · 📊 Streamlit · 🎨 NiceGUI 🔧 MLOps Tools 📈 MLflow · 📦 DVC · ⏱️ Airflow 🧪 Evidently AI · 📦 BentoML 🔁 Version Control & CI/CD 🧬 Git · 🐙 GitHub · ⚙️ GitHub Actions ☁️ Containerization & Cloud 🐳 Docker ☁️ AWS: S3 · EC2 · ECR · ECS · RDS · SageMaker 📦 Model Packaging & Deployment.
 
 
 </div>

@@ -209,6 +209,12 @@ src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo
 <img src="https://upload.wikimedia.org/wikipedia/commons/6/63/Databricks_Logo.png"height="60"alt="Databricks"/>
 </a>
 
+
+<a href="https://reflex.dev/" target="_blank">
+<img src="https://github.com/reflex-dev/reflex/blob/main/docs/public/logo.svg" height="50" alt="Reflex Logo" />
+</a>
+
+
 ---
 
 </div>

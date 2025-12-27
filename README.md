@@ -31,7 +31,7 @@ src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo
 <img src="https://www.statsmodels.org/stable/_images/statsmodels-logo-v2-horizontal.svg" height="50" />
 </a>
 <a href="https://alkaline-ml.com/pmdarima/" target="_blank">
-<img src="https://img.shields.io/badge/pmdarima-0A84FF?style=for-the-badge&logo=python&logoColor=white" alt="pmdarima"/>
+<img src="https://img.shields.io/badge/pmdarima-5C2D91?style=for-the-badge&logo=python&logoColor=white" alt="pmdarima" />
 </a>
 <a href="https://pypdf2.readthedocs.io/" target="_blank">
 <img src="https://img.shields.io/badge/PyPDF2-FF6F00?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="PyPDF2"/>
@@ -208,24 +208,6 @@ src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo
 <a href="https://www.databricks.com/" target="_blank">
 <img src="https://upload.wikimedia.org/wikipedia/commons/6/63/Databricks_Logo.png"height="60"alt="Databricks"/>
 </a>
-
-
-
-<!-- pmdarima badge -->
-<a href="https://alkaline-ml.com/pmdarima/" target="_blank">
-  <img src="https://img.shields.io/badge/pmdarima-5C2D91?style=for-the-badge&logo=python&logoColor=white" alt="pmdarima" />
-</a>
-
-<!-- PyPDF2 badge - Note: PyPDF2 is deprecated, use pypdf instead -->
-<a href="https://pypdf.readthedocs.io/" target="_blank">
-  <img src="https://img.shields.io/badge/pypdf-D32F2F?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="pypdf" />
-</a>
-
-
-
-
-
-
 
 ---
 

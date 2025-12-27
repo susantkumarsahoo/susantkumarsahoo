@@ -209,6 +209,32 @@ src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo
 <img src="https://upload.wikimedia.org/wikipedia/commons/6/63/Databricks_Logo.png"height="60"alt="Databricks"/>
 </a>
 
+
+<a href="https://alkaline-ml.com/pmdarima/" target="_blank">
+  <img src="https://img.shields.io/badge/pmdarima-0A84FF?style=for-the-badge&logo=python&logoColor=white" alt="pmdarima" />
+</a>
+<a href="https://pypdf2.readthedocs.io/" target="_blank">
+  <img src="https://img.shields.io/badge/PyPDF2-FF6F00?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="PyPDF2" />
+</a>
+
+<a href="https://alkaline-ml.com/pmdarima/" target="_blank">
+  <img src="https://img.shields.io/badge/pmdarima-blue?style=for-the-badge" alt="pmdarima" />
+</a>
+<a href="https://pypdf2.readthedocs.io/" target="_blank">
+  <img src="https://img.shields.io/badge/PyPDF2-orange?style=for-the-badge" alt="PyPDF2" />
+</a>
+
+<a href="https://alkaline-ml.com/pmdarima/" target="_blank" style="text-decoration: none;">
+  <span style="background: #0A84FF; color: white; padding: 8px 16px; border-radius: 4px; font-weight: bold; display: inline-block;">📊 pmdarima</span>
+</a>
+<a href="https://pypdf2.readthedocs.io/" target="_blank" style="text-decoration: none;">
+  <span style="background: #FF6F00; color: white; padding: 8px 16px; border-radius: 4px; font-weight: bold; display: inline-block;">📄 PyPDF2</span>
+</a>
+
+
+
+
+
 ---
 
 </div>

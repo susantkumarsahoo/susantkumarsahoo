@@ -154,7 +154,7 @@ src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo
 <img src="https://nicegui.io/logo_square.png" height="50" />
 </a>
 <a href="https://reflex.dev/" target="_blank">
-<img src="https://raw.githubusercontent.com/reflex-dev/reflex/main/docs/static/img/logo.png" height="50" />
+<img src="https://avatars.githubusercontent.com/u/104714959?s=200&v=4" height="50" alt="Reflex Logo" />
 </a>
 <a href="https://mlflow.org/" target="_blank">
 <img src="https://avatars.githubusercontent.com/u/39938107?s=200&v=4" height="50" alt="MLflow" />
@@ -208,21 +208,6 @@ src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo
 <a href="https://www.databricks.com/" target="_blank">
 <img src="https://upload.wikimedia.org/wikipedia/commons/6/63/Databricks_Logo.png"height="60"alt="Databricks"/>
 </a>
-
-
-<a href="https://reflex.dev/" target="_blank">
-<img src="./images/reflex-logo.png" height="50" alt="Reflex Logo" />
-</a>
-
-<a href="https://reflex.dev/" target="_blank">
-<img src="https://avatars.githubusercontent.com/u/104714959?s=200&v=4" height="50" alt="Reflex Logo" />
-</a>
-
-<a href="https://reflex.dev/" target="_blank" style="text-decoration: none;">
-<span style="font-size: 24px; font-weight: bold; color: #5646ED;">⚡ Reflex</span>
-</a>
-
-
 
 ---
 

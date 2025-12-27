@@ -211,12 +211,17 @@ src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo
 
 
 <a href="https://reflex.dev/" target="_blank">
-<img src="https://github.com/reflex-dev/reflex/blob/main/docs/public/logo.svg" height="50" alt="Reflex Logo" />
+<img src="./images/reflex-logo.png" height="50" alt="Reflex Logo" />
 </a>
 
 <a href="https://reflex.dev/" target="_blank">
-<img src="https://reflex.dev/logo.svg" height="50" alt="Reflex Logo" />
+<img src="https://avatars.githubusercontent.com/u/104714959?s=200&v=4" height="50" alt="Reflex Logo" />
 </a>
+
+<a href="https://reflex.dev/" target="_blank" style="text-decoration: none;">
+<span style="font-size: 24px; font-weight: bold; color: #5646ED;">⚡ Reflex</span>
+</a>
+
 
 
 ---

@@ -154,7 +154,7 @@ src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo
 <img src="https://nicegui.io/logo_square.png" height="50" />
 </a>
 <a href="https://reflex.dev/" target="_blank">
-<img src="https://reflex.dev/logo.png" height="50" />
+<img src="https://raw.githubusercontent.com/reflex-dev/reflex/main/docs/static/img/logo.png" height="50" />
 </a>
 <a href="https://mlflow.org/" target="_blank">
 <img src="https://avatars.githubusercontent.com/u/39938107?s=200&v=4" height="50" alt="MLflow" />

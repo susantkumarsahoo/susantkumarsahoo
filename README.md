@@ -165,9 +165,6 @@ src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo
 <a href="https://airflow.apache.org/" target="_blank">
 <img src="https://airflow.apache.org/images/feature-image.png" height="50" />
 </a>
-<a href="https://spark.apache.org/" target="_blank">
-<img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" height="50" />
-</a>
 <a href="https://spark.apache.org/docs/latest/api/python/" target="_blank">
 <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" height="50" />
 </a>

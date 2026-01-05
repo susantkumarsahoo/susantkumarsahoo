@@ -124,6 +124,9 @@ src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo
 </a>
 <a href="https://pymongo.readthedocs.io/" target="_blank"><img src="https://img.shields.io/badge/PyMongo-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="PyMongo"/></a>
 <a href="https://boto3.amazonaws.com/v1/documentation/api/latest/index.html" target="_blank"><img src="https://img.shields.io/badge/Boto3-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="Boto3"/></a>
+<a href="https://pymysql.readthedocs.io/" target="_blank">
+<img src="https://img.shields.io/badge/PyMySQL-DC143C?style=for-the-badge&logo=mysql&logoColor=white" alt="PyMySQL" />
+</a>
 <a href="https://www.pinecone.io/" target="_blank">
 <img src="https://www.pinecone.io/_next/image/?url=%2Fimages%2Fpinecone-logo.png&w=256&q=75" height="50" />
 </a>
@@ -206,32 +209,13 @@ src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo
 <img src="https://upload.wikimedia.org/wikipedia/commons/6/63/Databricks_Logo.png"height="60"alt="Databricks"/>
 </a>
 
-<a href="https://pymysql.readthedocs.io/" target="_blank">
-  <img src="https://img.shields.io/badge/PyMySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="PyMySQL" />
-</a>
-
-<a href="https://pymysql.readthedocs.io/" target="_blank">
-  <img src="https://img.shields.io/badge/PyMySQL-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="PyMySQL" />
-</a>
-<a href="https://pymysql.readthedocs.io/" target="_blank">
-  <img src="https://img.shields.io/badge/PyMySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" alt="PyMySQL" />
-</a>
-
-<a href="https://pymysql.readthedocs.io/" target="_blank">
-  <img src="https://img.shields.io/badge/PyMySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" alt="PyMySQL" />
-</a>
-
-<a href="https://pymysql.readthedocs.io/" target="_blank">
-  <img src="https://img.shields.io/badge/PyMySQL-5C2D91?style=for-the-badge&logo=mysql&logoColor=white" alt="PyMySQL" />
-</a>
-
-<a href="https://pymysql.readthedocs.io/" target="_blank">
-  <img src="https://img.shields.io/badge/PyMySQL-DC143C?style=for-the-badge&logo=mysql&logoColor=white" alt="PyMySQL" />
-</a>
-
 ---
 
 </div>
+
+🔴 asyncio 🔵 collections 🟢 concurrent.futures 🟣 csv 🟠 dataclasses 🔵 datetime 🟢 decimal 🟣 functools 🟠 inspect 🔵 io 🟢 itertools 🟣 json 🟠 logging 🔵 math 🟢 multiprocessing 🟣 os 🟠 os.path 🔵 pathlib 🟢 pickle 🟣 random 🟠 re 🔵 sqlite3 🟢 statistics 🟣 sys 🟠 tempfile 🔵 threading 🟢 time 🟣 typing 🟠 uuid 🔵 warnings
+
+---
 
 abc 🔴 argparse 🔵 array 🟢 asyncio 🟣 builtins 🟠 calendar 🔵 cmath 🟢 collections 🟣 concurrent.futures 🟠 configparser 🔵 contextlib 🟢 copy 🟣 copyreg 🟠 csv 🔵 dataclasses 🟢 datetime 🟣 decimal 🟠 difflib 🔵 doctest 🟢 filecmp 🟣 fileinput 🟠 fnmatch 🔵 fractions 🟢 functools 🟣 getpass 🟠 glob 🔵 inspect 🟢 io 🟣 itertools 🟠 json 🔵 linecache 🟢 logging 🟣 math 🟠 multiprocessing 🔵 numbers 🟢 operator 🟣 os 🟠 os.path 🔵 pathlib 🟢 pickle 🟣 platform 🟠 pprint 🔵 pydoc 🟢 random 🟣 re 🟠 shutil 🔵 sqlite3 🟢 stat 🟣 statistics 🟠 string 🔵 stringprep 🟢 sys 🟣 sysconfig 🟠 tempfile 🔵 test 🟢 textwrap 🟣 threading 🟠 time 🔵 traceback 🟢 typing 🟣 unicodedata 🟠 unittest 🔵 uuid 🟢 venv 🟣 warnings 🟠
 

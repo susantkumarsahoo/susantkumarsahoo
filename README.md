@@ -207,19 +207,18 @@ src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo
 </a>
 
 <a href="https://pymysql.readthedocs.io/" target="_blank">
-  <strong>PyMySQL</strong>
+  <img src="https://img.shields.io/badge/PyMySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="PyMySQL" />
 </a>
-<a href="https://pymysql.readthedocs.io/" target="_blank" style="text-decoration: none;">
-  <span style="background-color: #336791; color: white; padding: 8px 16px; border-radius: 5px; font-family: Arial, sans-serif; font-weight: bold; display: inline-block;">
-    PyMySQL
-  </span>
-</a>
-<a href="https://pymysql.readthedocs.io/" target="_blank" style="text-decoration: none; display: inline-flex; align-items: center; background-color: #00758f; color: white; padding: 8px 16px; border-radius: 5px; font-family: Arial, sans-serif; font-weight: bold;">
-  <span style="font-size: 24px; margin-right: 8px;">🐬</span>
-  <span>PyMySQL</span>
+
+<a href="https://pymysql.readthedocs.io/" target="_blank">
+  <img src="https://img.shields.io/badge/PyMySQL-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="PyMySQL" />
 </a>
 <a href="https://pymysql.readthedocs.io/" target="_blank">
-  <img src="https://img.shields.io/badge/PyMySQL-Documentation-blue" alt="PyMySQL Documentation" height="25"/>
+  <img src="https://img.shields.io/badge/PyMySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" alt="PyMySQL" />
+</a>
+
+<a href="https://pymysql.readthedocs.io/" target="_blank">
+  <img src="https://img.shields.io/badge/PyMySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" alt="PyMySQL" />
 </a>
 
 

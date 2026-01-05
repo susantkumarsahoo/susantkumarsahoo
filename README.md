@@ -207,9 +207,20 @@ src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo
 </a>
 
 <a href="https://pymysql.readthedocs.io/" target="_blank">
-  <img src="https://raw.githubusercontent.com/PyMySQL/PyMySQL/master/docs/_static/pymysql-logo.png" alt="PyMySQL Logo" height="50"/>
+  <strong>PyMySQL</strong>
 </a>
-
+<a href="https://pymysql.readthedocs.io/" target="_blank" style="text-decoration: none;">
+  <span style="background-color: #336791; color: white; padding: 8px 16px; border-radius: 5px; font-family: Arial, sans-serif; font-weight: bold; display: inline-block;">
+    PyMySQL
+  </span>
+</a>
+<a href="https://pymysql.readthedocs.io/" target="_blank" style="text-decoration: none; display: inline-flex; align-items: center; background-color: #00758f; color: white; padding: 8px 16px; border-radius: 5px; font-family: Arial, sans-serif; font-weight: bold;">
+  <span style="font-size: 24px; margin-right: 8px;">🐬</span>
+  <span>PyMySQL</span>
+</a>
+<a href="https://pymysql.readthedocs.io/" target="_blank">
+  <img src="https://img.shields.io/badge/PyMySQL-Documentation-blue" alt="PyMySQL Documentation" height="25"/>
+</a>
 
 
 

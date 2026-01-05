@@ -221,7 +221,13 @@ src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo
   <img src="https://img.shields.io/badge/PyMySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" alt="PyMySQL" />
 </a>
 
+<a href="https://pymysql.readthedocs.io/" target="_blank">
+  <img src="https://img.shields.io/badge/PyMySQL-5C2D91?style=for-the-badge&logo=mysql&logoColor=white" alt="PyMySQL" />
+</a>
 
+<a href="https://pymysql.readthedocs.io/" target="_blank">
+  <img src="https://img.shields.io/badge/PyMySQL-DC143C?style=for-the-badge&logo=mysql&logoColor=white" alt="PyMySQL" />
+</a>
 
 ---
 

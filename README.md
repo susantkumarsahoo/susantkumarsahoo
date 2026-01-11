@@ -22,12 +22,6 @@ Full-Stack Data Scientist | AI/ML Engineer | Machine Learning | Deep Learning | 
 <a href="https://en.wikipedia.org/wiki/SQL" target="_blank">
 <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" height="40" alt="SQL"/>
 </a>
-</div>
-
----
-
-### Data Manipulation & Analysis
-<div align="center">
 <a href="https://numpy.org/" target="_blank">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="50" />
 </a>
@@ -40,24 +34,14 @@ Full-Stack Data Scientist | AI/ML Engineer | Machine Learning | Deep Learning | 
 <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank">
 <img src="https://img.icons8.com/color/452/microsoft-excel-2019--v1.png" height="50" alt="Excel" />
 </a>
-</div>
 
----
-
-### Statistical Analysis & Time Series
-<div align="center">
 <a href="https://www.statsmodels.org/" target="_blank">
 <img src="https://www.statsmodels.org/stable/_images/statsmodels-logo-v2-horizontal.svg" height="50" />
 </a>
 <a href="https://alkaline-ml.com/pmdarima/" target="_blank">
 <img src="https://img.shields.io/badge/pmdarima-5C2D91?style=for-the-badge&logo=python&logoColor=white" alt="pmdarima" />
 </a>
-</div>
 
----
-
-### Data Visualization & BI Tools
-<div align="center">
 <a href="https://matplotlib.org/" target="_blank">
 <img src="https://matplotlib.org/stable/_static/logo_light.svg" height="50" />
 </a>
@@ -70,12 +54,7 @@ Full-Stack Data Scientist | AI/ML Engineer | Machine Learning | Deep Learning | 
 <a href="https://powerbi.microsoft.com/" target="_blank">
 <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="50" />
 </a>
-</div>
 
----
-
-### Document Processing & Validation
-<div align="center">
 <a href="https://pypdf2.readthedocs.io/" target="_blank">
 <img src="https://img.shields.io/badge/PyPDF2-FF6F00?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="PyPDF2"/>
 </a>
@@ -85,12 +64,7 @@ Full-Stack Data Scientist | AI/ML Engineer | Machine Learning | Deep Learning | 
 <a href="https://pytest.org/" target="_blank">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original.svg" height="50" alt="Pytest" />
 </a>
-</div>
 
----
-
-### Natural Language Processing (NLP)
-<div align="center">
 <a href="https://www.nltk.org/" target="_blank">
 <img src="https://miro.medium.com/v2/resize:fit:592/1*YM2HXc7f4v02pZBEO8h-qw.png" height="50" />
 </a>
@@ -103,12 +77,7 @@ Full-Stack Data Scientist | AI/ML Engineer | Machine Learning | Deep Learning | 
 <a href="https://huggingface.co/" target="_blank">
 <img src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo.png" height="50" />
 </a>
-</div>
 
----
-
-### Machine Learning - Classical Algorithms
-<div align="center">
 <a href="https://scikit-learn.org/" target="_blank">
 <img src="https://skillicons.dev/icons?i=sklearn" height="70" />
 </a>
@@ -121,11 +90,7 @@ Full-Stack Data Scientist | AI/ML Engineer | Machine Learning | Deep Learning | 
 <a href="https://catboost.ai/" target="_blank">
 <img src="https://upload.wikimedia.org/wikipedia/commons/c/cc/CatBoostLogo.png" height="50" />
 </a>
-</div>
 
----
-
-### Deep Learning Frameworks
 <div align="center">
 <a href="https://www.tensorflow.org/" target="_blank">
 <img src="https://skillicons.dev/icons?i=tensorflow" height="50" />
@@ -136,12 +101,7 @@ Full-Stack Data Scientist | AI/ML Engineer | Machine Learning | Deep Learning | 
 <a href="https://pytorch.org/" target="_blank">
 <img src="https://skillicons.dev/icons?i=pytorch" height="50" />
 </a>
-</div>
 
----
-
-### LLM & GenAI Frameworks
-<div align="center">
 <a href="https://www.langchain.com/" target="_blank">
 <img src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" height="50" alt="LangChain" />
 </a>
@@ -154,12 +114,8 @@ Full-Stack Data Scientist | AI/ML Engineer | Machine Learning | Deep Learning | 
 <a href="https://openai.com/" target="_blank">
 <img src="https://static.vecteezy.com/system/resources/previews/022/227/364/non_2x/openai-chatgpt-logo-icon-free-png.png" height="50" />
 </a>
-</div>
 
----
 
-### Databases - SQL
-<div align="center">
 <a href="https://dev.mysql.com/doc/connector-python/en/" target="_blank">
 <img src="https://labs.mysql.com/common/logos/mysql-logo.svg" alt="MySQL Logo" height="50"/>
 </a>
@@ -178,36 +134,24 @@ Full-Stack Data Scientist | AI/ML Engineer | Machine Learning | Deep Learning | 
 <a href="https://pymysql.readthedocs.io/" target="_blank">
 <img src="https://img.shields.io/badge/PyMySQL-DC143C?style=for-the-badge&logo=mysql&logoColor=white" alt="PyMySQL" />
 </a>
-</div>
 
----
 
-### Databases - NoSQL
-<div align="center">
 <a href="https://www.mongodb.com/" target="_blank">
 <img src="https://skillicons.dev/icons?i=mongodb" height="50" />
 </a>
 <a href="https://pymongo.readthedocs.io/" target="_blank">
 <img src="https://img.shields.io/badge/PyMongo-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="PyMongo"/>
 </a>
-</div>
 
----
 
-### Vector Databases
-<div align="center">
 <a href="https://www.pinecone.io/" target="_blank">
 <img src="https://www.pinecone.io/_next/image/?url=%2Fimages%2Fpinecone-logo.png&w=256&q=75" height="50" />
 </a>
 <a href="https://www.trychroma.com/" target="_blank">
 <img src="https://github.com/chroma-core.png" height="50" alt="ChromaDB" />
 </a>
-</div>
 
----
 
-### Web Frameworks & APIs
-<div align="center">
 <a href="https://flask.palletsprojects.com/" target="_blank">
 <img src="https://skillicons.dev/icons?i=flask" height="50" />
 </a>
@@ -220,12 +164,7 @@ Full-Stack Data Scientist | AI/ML Engineer | Machine Learning | Deep Learning | 
 <a href="https://www.djangoproject.com/" target="_blank">
 <img src="https://upload.wikimedia.org/wikipedia/commons/7/75/Django_logo.svg" height="50" alt="Django"/>
 </a>
-</div>
 
----
-
-### UI Frameworks & Dashboards
-<div align="center">
 <a href="https://streamlit.io/" target="_blank">
 <img src="https://streamlit.io/images/brand/streamlit-mark-color.svg" height="50" />
 </a>
@@ -241,12 +180,7 @@ Full-Stack Data Scientist | AI/ML Engineer | Machine Learning | Deep Learning | 
 <a href="https://reflex.dev/" target="_blank">
 <img src="https://avatars.githubusercontent.com/u/104714959?s=200&v=4" height="50" alt="Reflex Logo" />
 </a>
-</div>
 
----
-
-### MLOps & Experiment Tracking
-<div align="center">
 <a href="https://mlflow.org/" target="_blank">
 <img src="https://avatars.githubusercontent.com/u/39938107?s=200&v=4" height="50" alt="MLflow" />
 </a>
@@ -259,24 +193,14 @@ Full-Stack Data Scientist | AI/ML Engineer | Machine Learning | Deep Learning | 
 <a href="https://www.bentoml.com/" target="_blank">
 <img src="https://img.shields.io/badge/BentoML-000000?style=for-the-badge&logo=bentoml&logoColor=white" alt="BentoML" height="60"/>
 </a>
-</div>
 
----
-
-### Workflow Orchestration & Big Data
-<div align="center">
 <a href="https://airflow.apache.org/" target="_blank">
 <img src="https://airflow.apache.org/images/feature-image.png" height="50" />
 </a>
 <a href="https://spark.apache.org/docs/latest/api/python/" target="_blank">
 <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" height="50" />
 </a>
-</div>
 
----
-
-### Version Control & CI/CD
-<div align="center">
 <a href="https://git-scm.com/" target="_blank">
 <img src="https://skillicons.dev/icons?i=git" height="50" />
 </a>
@@ -286,21 +210,11 @@ Full-Stack Data Scientist | AI/ML Engineer | Machine Learning | Deep Learning | 
 <a href="https://github.com/features/actions" target="_blank">
 <img src="https://skillicons.dev/icons?i=githubactions" height="50" />
 </a>
-</div>
 
----
-
-### Containerization & Deployment
-<div align="center">
 <a href="https://docs.docker.com/" target="_blank">
 <img src="https://skillicons.dev/icons?i=docker" height="50" />
 </a>
-</div>
 
----
-
-### Cloud Platforms & Services
-<div align="center">
 <a href="https://aws.amazon.com/" target="_blank">
 <img src="https://skillicons.dev/icons?i=aws" height="50" />
 </a>
@@ -313,12 +227,7 @@ Full-Stack Data Scientist | AI/ML Engineer | Machine Learning | Deep Learning | 
 <a href="https://www.databricks.com/" target="_blank">
 <img src="https://upload.wikimedia.org/wikipedia/commons/6/63/Databricks_Logo.png" height="60" alt="Databricks"/>
 </a>
-</div>
 
----
-
-### Development Environments & IDEs
-<div align="center">
 <a href="https://code.visualstudio.com/" target="_blank">
 <img src="https://skillicons.dev/icons?i=vscode" height="50" />
 </a>
@@ -335,7 +244,6 @@ Full-Stack Data Scientist | AI/ML Engineer | Machine Learning | Deep Learning | 
 
 ---
 
----
 
 </div>
 

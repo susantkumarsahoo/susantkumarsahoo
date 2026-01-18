@@ -70,6 +70,9 @@ Full-Stack Data Scientist | AI/ML Engineer | Machine Learning | Deep Learning | 
 <a href="https://www.sbert.net/" target="_blank">
 <img src="https://raw.githubusercontent.com/UKPLab/sentence-transformers/master/docs/img/logo.png" height="50" />
 </a>
+<a href="https://developer.mozilla.org/en-US/docs/Web" target="_blank">
+<img src="https://skillicons.dev/icons?i=html" height="50" alt="MDN Web Docs"/>
+</a>
 <a href="https://huggingface.co/docs/transformers/" target="_blank">
 <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" height="50" />
 </a>
@@ -242,11 +245,6 @@ Full-Stack Data Scientist | AI/ML Engineer | Machine Learning | Deep Learning | 
 <a href="https://colab.research.google.com/" target="_blank">
 <img src="https://colab.research.google.com/img/colab_favicon_256px.png" height="50" />
 </a>
-
-<a href="https://developer.mozilla.org/en-US/docs/Web" target="_blank">
-  <img src="https://skillicons.dev/icons?i=html" height="50" alt="MDN Web Docs"/>
-</a>
-
 
 </div>
 

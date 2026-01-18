@@ -246,6 +246,20 @@ Full-Stack Data Scientist | AI/ML Engineer | Machine Learning | Deep Learning | 
 <img src="https://skillicons.dev/icons?i=mdn" height="50" alt="MDN Web Docs"/>
 </a>
 
+<a href="https://developer.mozilla.org/en-US/docs/Web" target="_blank">
+  <img src="https://skillicons.dev/icons?i=md" height="50" alt="MDN Web Docs"/>
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web" target="_blank">
+  <img src="https://developer.mozilla.org/mdn-social-share.png" height="50" alt="MDN Web Docs"/>
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firefox/firefox-original.svg" height="50" alt="MDN Web Docs"/>
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web" target="_blank">
+  <img src="https://skillicons.dev/icons?i=html" height="50" alt="MDN Web Docs"/>
+</a>
+
+
 </div>
 
 ---

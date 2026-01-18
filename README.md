@@ -142,7 +142,7 @@ Full-Stack Data Scientist | AI/ML Engineer | Machine Learning | Deep Learning | 
 <img src="https://img.shields.io/badge/PyMongo-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="PyMongo"/>
 </a>
 <a href="https://docs.mongoengine.org/" target="_blank">
-<img src="https://img.shields.io/badge/MongoEngine-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoEngine"/>
+<img src="https://img.shields.io/badge/MongoEngine-007ACC?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoEngine"/>
 </a>
 
 

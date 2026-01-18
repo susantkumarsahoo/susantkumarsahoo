@@ -242,6 +242,10 @@ Full-Stack Data Scientist | AI/ML Engineer | Machine Learning | Deep Learning | 
 <a href="https://colab.research.google.com/" target="_blank">
 <img src="https://colab.research.google.com/img/colab_favicon_256px.png" height="50" />
 </a>
+<a href="https://developer.mozilla.org/en-US/docs/Web" target="_blank">
+<img src="https://skillicons.dev/icons?i=mdn" height="50" alt="MDN Web Docs"/>
+</a>
+
 </div>
 
 ---

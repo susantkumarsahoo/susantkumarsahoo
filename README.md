@@ -138,10 +138,13 @@ Full-Stack Data Scientist | AI/ML Engineer | Machine Learning | Deep Learning | 
 <a href="https://www.mongodb.com/" target="_blank">
 <img src="https://skillicons.dev/icons?i=mongodb" height="50" />
 </a>
-<a href="https://pymongo.readthedocs.io/" target="_blank">
+<a href="https://pymongo.readthedocs.io/en/4.13.2/api/" target="_blank">
 <img src="https://img.shields.io/badge/PyMongo-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="PyMongo"/>
 </a>
 
+<a href="[https://pymongo.readthedocs.io/en/4.13.2/api/](https://docs.mongoengine.org/)" target="_blank">
+<img src="https://img.shields.io/badge/PyMongo-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongoengine"/>
+</a>
 
 <a href="https://www.pinecone.io/" target="_blank">
 <img src="https://www.pinecone.io/_next/image/?url=%2Fimages%2Fpinecone-logo.png&w=256&q=75" height="50" />

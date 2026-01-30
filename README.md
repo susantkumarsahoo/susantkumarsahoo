@@ -129,7 +129,7 @@ Full-Stack Data Scientist | AI/ML Engineer | Machine Learning | Deep Learning | 
 </a>
 
 <a href="https://imbalanced-learn.org/" target="_blank">
-<img src="https://raw.githubusercontent.com/scikit-learn-contrib/imbalanced-learn/master/docs/logos/imbalanced-learn.svg" height="50" alt="Imbalanced-learn"/>
+<img src="https://img.shields.io/badge/imbalanced--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Imbalanced-learn"/>
 </a>
 
 <a href="https://optuna.org/" target="_blank">
@@ -137,7 +137,7 @@ Full-Stack Data Scientist | AI/ML Engineer | Machine Learning | Deep Learning | 
 </a>
 
 <a href="https://pycaret.org/" target="_blank">
-<img src="https://pycaret.org/images/logo.png" height="50" alt="PyCaret"/>
+<img src="https://img.shields.io/badge/PyCaret-00A4E4?style=for-the-badge&logo=python&logoColor=white" alt="PyCaret"/>
 </a>
 
 <a href="https://automl.github.io/auto-sklearn/" target="_blank">

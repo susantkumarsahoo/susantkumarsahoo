@@ -279,7 +279,7 @@ Full-Stack Data Scientist | AI/ML Engineer | Machine Learning | Deep Learning | 
 </a>
 
 <a href="https://git-scm.com/" target="_blank">
-<img src="https://skillicons.dev/icons?i=git" height="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="Git" />
 </a>
 
 <a href="https://github.com/" target="_blank">

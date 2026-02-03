@@ -178,10 +178,6 @@ Full-Stack Data Scientist | AI/ML Engineer | Machine Learning | Deep Learning | 
 <img src="https://labs.mysql.com/common/logos/mysql-logo.svg" alt="MySQL Logo" height="50"/>
 </a>
 
-<a href="https://dev.mysql.com/doc/connector-python/en/" target="_blank">
-<img src="https://img.shields.io/badge/mysql--connector--python-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql-connector-python"/>
-</a>
-
 <a href="https://docs.python.org/3/library/sqlite3.html" target="_blank">
 <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/SQLite370.svg" alt="SQLite Logo" height="50"/>
 </a>

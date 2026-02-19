@@ -170,7 +170,7 @@ Full-Stack Data Scientist | AI/ML Engineer | Machine Learning | Deep Learning | 
 <img src="https://img.shields.io/badge/LangGraph-0A84FF?style=for-the-badge&logo=langchain&logoColor=white" alt="LangGraph"/>
 </a>
 
-<a href="https://openai.com/" target="_blank">
+<a href="https://developers.openai.com/" target="_blank">
 <img src="https://static.vecteezy.com/system/resources/previews/022/227/364/non_2x/openai-chatgpt-logo-icon-free-png.png" height="50" />
 </a>
 

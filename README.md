@@ -44,7 +44,7 @@ Full-Stack Data Scientist | AI/ML Engineer | Machine Learning | Deep Learning | 
 <img src="https://img.icons8.com/color/452/microsoft-excel-2019--v1.png" height="50" alt="Excel" />
 </a>
 <a href="https://n8n.io" target="_blank">
-  <img src="https://n8n.io/images/n8n-logo.png" height="50" alt="n8n" />
+  <img src="https://raw.githubusercontent.com/n8n-io/n8n/master/assets/n8n-logo.png" height="50" alt="n8n" />
 </a>
 
 <a href="https://www.statsmodels.org/" target="_blank">

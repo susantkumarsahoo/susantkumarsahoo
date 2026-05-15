@@ -176,6 +176,9 @@ Full-Stack Data Scientist | AI/ML Engineer | Machine Learning | Deep Learning | 
 <a href="https://developers.openai.com/" target="_blank">
 <img src="https://static.vecteezy.com/system/resources/previews/022/227/364/non_2x/openai-chatgpt-logo-icon-free-png.png" height="50" />
 </a>
+<a href="https://docs.ragas.io/en/stable/" target="_blank">
+  <img src="https://img.shields.io/badge/RAGAS-6B4FBB?style=for-the-badge&logo=python&logoColor=white" alt="RAGAS" />
+</a>
 
 <a href="https://dev.mysql.com/doc/connector-python/en/" target="_blank">
 <img src="https://labs.mysql.com/common/logos/mysql-logo.svg" alt="MySQL Logo" height="50"/>
@@ -322,6 +325,9 @@ Full-Stack Data Scientist | AI/ML Engineer | Machine Learning | Deep Learning | 
 
 <a href="https://colab.research.google.com/" target="_blank">
 <img src="https://colab.research.google.com/img/colab_favicon_256px.png" height="50" />
+</a>
+<a href="https://developer.hashicorp.com/terraform/docs" target="_blank">
+  <img src="https://skillicons.dev/icons?i=terraform" height="50" alt="Terraform" />
 </a>
 
 </div>

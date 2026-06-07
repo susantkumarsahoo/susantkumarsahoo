@@ -372,3 +372,18 @@ abc 🔴 argparse 🔵 array 🟢 asyncio 🟣 builtins 🟠 calendar 🔵 cmath
 <div align="center">
   
 ### Big Data is the new oil, but like oil, it needs to be refined to be valuable.
+
+</div>
+</div>
+## Document Processing Libraries
+
+| Library | Short Description |
+|----------|------------------|
+| PyMuPDF | Extract text, images, and metadata from PDF files. |
+| PaddleOCR | Extract text from scanned images and PDFs using OCR. |
+| pdfplumber | Extract structured data and tables from PDFs. |
+| python-docx | Read and write Microsoft Word (.docx) files. |
+| python-pptx | Read and create PowerPoint (.pptx) files. |
+
+
+</div>

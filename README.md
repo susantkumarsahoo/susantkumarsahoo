@@ -180,6 +180,22 @@ Full-Stack Data Scientist | AI/ML Engineer | Machine Learning | Deep Learning | 
   <img src="https://img.shields.io/badge/RAGAS-6B4FBB?style=for-the-badge&logo=python&logoColor=white" alt="RAGAS" />
 </a>
 
+<!-- PaddleOCR -->
+<a href="https://github.com/PaddlePaddle/PaddleOCR" target="_blank">
+  <img src="https://img.shields.io/badge/PaddleOCR-0053D6?style=for-the-badge&logo=paddlepaddle&logoColor=white" alt="PaddleOCR"/>
+</a>
+
+<!-- PyMuPDF -->
+<a href="https://pymupdf.readthedocs.io/" target="_blank">
+  <img src="https://img.shields.io/badge/PyMuPDF-2A6F97?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="PyMuPDF"/>
+</a>
+
+<!-- pdfplumber -->
+<a href="https://github.com/jsvine/pdfplumber" target="_blank">
+  <img src="https://img.shields.io/badge/pdfplumber-6B4FBB?style=for-the-badge&logo=python&logoColor=white" alt="pdfplumber"/>
+</a>
+
+
 <a href="https://dev.mysql.com/doc/connector-python/en/" target="_blank">
 <img src="https://labs.mysql.com/common/logos/mysql-logo.svg" alt="MySQL Logo" height="50"/>
 </a>

@@ -181,8 +181,8 @@ Full-Stack Data Scientist | AI/ML Engineer | Machine Learning | Deep Learning | 
 </a>
 
 <!-- PaddleOCR -->
-<a href="https://github.com/PaddlePaddle/PaddleOCR" target="_blank">
-  <img src="https://img.shields.io/badge/PaddleOCR-0053D6?style=for-the-badge&logo=paddlepaddle&logoColor=white" alt="PaddleOCR"/>
+<a href="https://www.paddleocr.ai/main/en/index.html" target="_blank">
+  <img src="https://img.shields.io/badge/PaddleOCR-003087?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAACXBIWXMAAAsTAAALEwEAmpwYAAAA" alt="PaddleOCR"/>
 </a>
 
 <!-- PyMuPDF -->
